@@ -5,6 +5,10 @@ env:
   matrix:
   - CMD=build
   - CMD=test
+matrix:
+  fast_finish: true
+  allow_failures:
+  - env: CMD=build
 script:
 - npm run $CMD
 notifications:
