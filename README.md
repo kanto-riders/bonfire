@@ -1,19 +1,24 @@
-# bonfire
+# @kanto-riders/bonfire
 
-## 持ち物
+[![Build Status](https://travis-ci.org/kanto-riders/bonfire.svg?branch=master)](https://travis-ci.org/kanto-riders/bonfire)
 
-- 焚火台
-- ナタ / ナイフ / ノコギリ
-- 着火剤
-- ライター
-- 火箸
+>
 
-## 推奨グッズ
+## Build Setup
 
-- ノコギリ
-  - [シルキー ゴムボーイ 万能目 210mm](https://www.amazon.co.jp/dp/B000CEAX8S/)
-    - より大型の製品もあるが、枝を切る程度であれば210mmで十分。
-- ライター
-  - [SOTO スライドガストーチ](https://www.amazon.co.jp/dp/B004WMPFWA/)
-    - 先端が伸びるので奥底に埋まった着火剤などに点火するのが容易。
-    - CB缶のガスがそのまま入れられる。
+``` bash
+# install dependencies
+$ npm install # Or yarn install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
