@@ -1,6 +1,8 @@
 # @kanto-riders/bonfire
 
-> 
+[![Build Status](https://travis-ci.org/kanto-riders/bonfire.svg?branch=master)](https://travis-ci.org/kanto-riders/bonfire)
+
+>
 
 ## Build Setup
 
