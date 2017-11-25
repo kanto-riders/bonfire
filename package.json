@@ -4,18 +4,16 @@
   "dependencies": {
     "axios": "^0.17.1",
     "gsap": "^1.20.3",
-    "nuxt": "^1.0.0-rc9",
+    "nuxt": "^1.0.0-rc11",
     "nuxt-class-component": "^1.1.2",
     "tachyons": "^4.9.0",
-    "vue": "^2.5.6",
     "vue-class-component": "^6.1.0",
     "vue-property-decorator": "^6.0.0",
-    "vuex": "^3.0.1",
     "vuex-class": "^0.3.0"
   },
   "devDependencies": {
     "@9renpoto/tslint-config": "^3.4.0",
-    "@types/node": "^8.0.14",
+    "@types/node": "^8.0.53",
     "husky": "^0.14.3",
     "lint-staged": "^5.0.0",
     "markdownlint-cli": "^0.5.0",
@@ -23,7 +21,7 @@
     "prettier": "^1.8.2",
     "ts-loader": "^3.1.1",
     "tslint": "^5.8.0",
-    "typescript": "^2.4.1",
+    "typescript": "^2.6.1",
     "webpack": "^3.8.1"
   },
   "lint-staged": {
