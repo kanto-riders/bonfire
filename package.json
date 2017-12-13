@@ -3,35 +3,70 @@
   "version": "1.0.4",
   "dependencies": {
     "axios": "^0.17.1",
+    "element-ui": "^2.0.8",
     "gsap": "^1.20.3",
     "nuxt": "^1.0.0-rc11",
-    "nuxt-class-component": "^1.1.2",
+    "nuxt-class-component": "^1.1.3",
     "tachyons": "^4.9.0",
-    "vue-class-component": "^6.1.0",
+    "vue-class-component": "^6.1.1",
     "vue-property-decorator": "^6.0.0",
     "vuex-class": "^0.3.0"
   },
   "devDependencies": {
+    "@9renpoto/eslint-config": "^2.3.0",
     "@9renpoto/tslint-config": "^3.4.0",
-    "@types/node": "^8.0.53",
+    "@types/jest": "^21.1.8",
+    "@types/node": "^8.0.58",
+    "caniuse-lite": "^1.0.30000783",
+    "eslint": "^4.13.1",
+    "eslint-plugin-jest": "^21.4.2",
+    "eslint-plugin-vue": "^4.0.0-beta.2",
     "husky": "^0.14.3",
+    "jest": "^21.2.1",
     "lint-staged": "^6.0.0",
     "markdownlint-cli": "^0.5.0",
     "npm-run-all": "^4.1.2",
-    "prettier": "^1.8.2",
-    "ts-loader": "^3.1.1",
+    "prettier-eslint-cli": "^4.6.1",
+    "ts-jest": "^21.2.4",
+    "ts-loader": "^3.2.0",
     "tslint": "^5.8.0",
-    "typescript": "^2.6.1",
-    "webpack": "^3.8.1"
+    "typescript": "^2.6.2",
+    "typescript-eslint-parser": "^11.0.0",
+    "vue-test-utils": "^1.0.0-beta.7",
+    "webpack": "^3.10.0"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "ts",
+      "js",
+      "json",
+      "vue"
+    ],
+    "testMatch": [
+      "**/__tests__/**/*.ts"
+    ],
+    "transform": {
+      ".*\\.(vue)$": "<rootDir>/node_modules/vue-jest",
+      ".ts": "<rootDir>/node_modules/ts-jest/preprocessor.js"
+    },
+    "snapshotSerializers": [
+      "<rootDir>/node_modules/jest-serializer-vue"
+    ],
+    "collectCoverage": true
   },
   "lint-staged": {
     "*.js": [
-      "prettier --write --single-quote --parser babylon",
+      "prettier-eslint --write --parser babylon",
+      "eslint",
       "git add"
     ],
     "*.ts": [
-      "prettier --parser typescript --write",
-      "tslint --fix",
+      "prettier-eslint --parser typescript --write",
+      "eslint",
+      "git add"
+    ],
+    "*.vue": [
+      "eslint --ext=vue --fix",
       "git add"
     ],
     "*.md": [
