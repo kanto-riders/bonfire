@@ -1,0 +1,35 @@
+{
+  "name": "bonfire",
+  "version": "1.0.0",
+  "author": "Keisuke Kan <9renpoto@gmail.com>",
+  "devDependencies": {
+    "@9renpoto/eslint-config": "^2.3.0",
+    "@9renpoto/eslint-config-react": "^0.2.0",
+    "husky": "^0.14.3",
+    "lint-staged": "^6.0.0",
+    "prettier-eslint-cli": "^4.6.1"
+  },
+  "license": "MIT",
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "prettier-eslint --write",
+      "eslint",
+      "git add"
+    ],
+    "*.css": [
+      "prettier --parser postcss",
+      "git add"
+    ],
+    "*.md": [
+      "prettier --parser markdown",
+      "git add"
+    ]
+  },
+  "main": "index.js",
+  "private": true,
+  "repository": "ssh://git@github.com/kanto-riders/bonfire.git",
+  "scripts": {
+    "precommit": "lint-staged",
+    "start": "cd website && npm start"
+  }
+}
