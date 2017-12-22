@@ -6,13 +6,10 @@
     "tagline": "Happy bonfire!",
     "campsite": "Campsite",
     "Campsite": "Campsite",
-    "doc2": "document number 2",
-    "doc3": "This is document number 3",
-    "doc4": "Other Document",
-    "doc5": "Fifth Document",
     "items": "Items",
     "Items": "Items",
-    "Blog": "Blog"
+    "Blog": "Blog",
+    "GitHub": "GitHub"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

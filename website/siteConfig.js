@@ -1,10 +1,3 @@
-/**
- * Copyright (c) 2017-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
 /* List of projects/orgs using your project for the users page */
 const users = [
   {
@@ -19,11 +12,13 @@ const siteConfig = {
   title: 'Happy bonfire!',
   tagline: 'Happy bonfire!',
   url: 'https://kanto-riders.github.io' /* your website url */,
-  baseUrl: '/test-site/',
+  baseUrl: '/bonfire/',
   projectName: 'bonfire',
   headerLinks: [
     { doc: 'campsite', label: 'Campsite' },
-    { blog: true, label: 'Blog' }
+    { blog: true, label: 'Blog' },
+    { href: 'https://github.com/kanto-riders/bonfire', label: 'GitHub' },
+    { search: true }
   ],
   users,
   /* path to images for header/footer */
@@ -37,15 +32,13 @@ const siteConfig = {
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
   copyright: 'Copyright © ' + new Date().getFullYear() + 'Kanto riders',
-  // organizationName: 'deltice', // or set an env variable ORGANIZATION_NAME
-  // projectName: 'test-site', // or set an env variable PROJECT_NAME
+  organizationName: 'kanto-riders',
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default'
   },
   scripts: ['https://buttons.github.io/buttons.js'],
-  // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/facebook/test-site'
+  repoUrl: 'https://github.com/kanto-riders/bonfire'
 }
 
 module.exports = siteConfig
