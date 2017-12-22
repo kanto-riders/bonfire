@@ -16,15 +16,13 @@ const users = [
 ]
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
-  url: 'https://facebook.github.io' /* your website url */,
-  baseUrl: '/test-site/' /* base url for your project */,
-  projectName: 'test-site',
+  title: 'Happy bonfire!',
+  tagline: 'Happy bonfire!',
+  url: 'https://kanto-riders.github.io' /* your website url */,
+  baseUrl: '/test-site/',
+  projectName: 'bonfire',
   headerLinks: [
-    { doc: 'doc1', label: 'Docs' },
-    { doc: 'doc4', label: 'API' },
-    { page: 'help', label: 'Help' },
+    { doc: 'campsite', label: 'Campsite' },
     { blog: true, label: 'Blog' }
   ],
   users,
@@ -38,10 +36,7 @@ const siteConfig = {
     secondaryColor: '#205C3B'
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
-  copyright:
-    'Copyright © ' +
-    new Date().getFullYear() +
-    ' Your Name or Your Company Name',
+  copyright: 'Copyright © ' + new Date().getFullYear() + 'Kanto riders',
   // organizationName: 'deltice', // or set an env variable ORGANIZATION_NAME
   // projectName: 'test-site', // or set an env variable PROJECT_NAME
   highlight: {

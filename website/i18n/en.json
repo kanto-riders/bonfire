@@ -3,20 +3,16 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "A website for testing",
-    "doc1": "Latin-ish",
-    "Example Page": "Example Page",
+    "tagline": "Happy bonfire!",
+    "campsite": "Campsite",
+    "Campsite": "Campsite",
     "doc2": "document number 2",
     "doc3": "This is document number 3",
     "doc4": "Other Document",
     "doc5": "Fifth Document",
-    "Docs": "Docs",
-    "API": "API",
-    "Help": "Help",
-    "Blog": "Blog",
-    "Docusaurus": "Docusaurus",
-    "First Category": "First Category",
-    "Second Category": "Second Category"
+    "items": "Items",
+    "Items": "Items",
+    "Blog": "Blog"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

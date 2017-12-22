@@ -37,7 +37,7 @@ class HomeSplash extends React.Component {
         <div className='homeSplashFade'>
           <div className='wrapper homeWrapper'>
             <div className='projectLogo'>
-              <img src={siteConfig.baseUrl + 'img/docusaurus.svg'} />
+              <img src={siteConfig.baseUrl + 'img/takibi.png'} />
             </div>
             <div className='inner'>
               <h2 className='projectTitle'>

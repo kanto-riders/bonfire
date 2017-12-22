@@ -29,6 +29,7 @@
   "private": true,
   "repository": "ssh://git@github.com/kanto-riders/bonfire.git",
   "scripts": {
+    "deploy": "cd website && publish-gh-pages",
     "precommit": "lint-staged",
     "start": "cd website && npm start"
   }
