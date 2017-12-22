@@ -1,12 +1,3 @@
 {
-  "extends": [
-    "@9renpoto/eslint-config"
-  ],
-  "plugins": [
-    "jest"
-  ],
-  "parser": "typescript-eslint-parser",
-  "env": {
-    "jest/globals": true
-  }
+  "extends": ["@9renpoto/eslint-config", "@9renpoto/eslint-config-react"]
 }

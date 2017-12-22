@@ -1,8 +1,4 @@
-# Nuxt build
-.nuxt
-
-# Nuxt generate
-dist
+### https://raw.github.com/github/gitignore/5f15ed83c7a3d5db29845edae5205ca2d795c3d8/Node.gitignore
 
 # Logs
 logs
@@ -35,7 +31,7 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
-# Compiled binary addons (http://nodejs.org/api/addons.html)
+# Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
 # Dependency directories
@@ -62,4 +58,6 @@ typings/
 
 # dotenv environment variables file
 .env
+
+
 
