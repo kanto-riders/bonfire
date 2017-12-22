@@ -31,6 +31,7 @@
   "scripts": {
     "build": "cd website && npm run build",
     "deploy": "cd website && npm run publish-gh-pages",
+    "postinstall": "cd website && yarn",
     "precommit": "lint-staged",
     "start": "cd website && npm start",
     "test": "eslint . --ext=js.jsx"
