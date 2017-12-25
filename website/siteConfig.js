@@ -11,19 +11,19 @@ const users = [
 const siteConfig = {
   title: 'Happy bonfire!',
   tagline: 'Happy bonfire!',
-  url: 'https://kanto-riders.github.io' /* your website url */,
+  url: 'https://kanto-riders.github.io/bonfire/',
   baseUrl: '/bonfire/',
   projectName: 'bonfire',
   headerLinks: [
     { doc: 'campsite', label: 'Campsite' },
     { blog: true, label: 'Blog' },
-    { href: 'https://github.com/kanto-riders/bonfire', label: 'GitHub' },
+    { href: 'https://github.com/kanto-riders/bonfire/', label: 'GitHub' },
     { search: true }
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
+  headerIcon: 'img/takibi.png',
+  footerIcon: 'img/takibi.png',
   favicon: 'img/favicon.png',
   /* colors for website */
   colors: {
@@ -38,7 +38,7 @@ const siteConfig = {
     theme: 'default'
   },
   scripts: ['https://buttons.github.io/buttons.js'],
-  repoUrl: 'https://github.com/kanto-riders/bonfire'
+  repoUrl: 'https://github.com/kanto-riders/bonfire/'
 }
 
 module.exports = siteConfig
