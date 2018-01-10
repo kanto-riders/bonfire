@@ -1,3 +1,7 @@
 {
-  "extends": ["@9renpoto/eslint-config", "@9renpoto/eslint-config-react"]
+  "extends": [
+    "@9renpoto/eslint-config",
+    "@9renpoto/eslint-config-react"
+  ],
+  "parser": "typescript-eslint-parser"
 }

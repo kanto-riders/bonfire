@@ -1,17 +1,10 @@
-/**
- * Copyright (c) 2017-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
+import React, { PureComponent } from 'react'
 
-const React = require('react')
+import { Container, GridBlock } from 'docusaurus/lib/core/CompLibrary'
 
-const CompLibrary = require('../../core/CompLibrary.js')
-const Container = CompLibrary.Container
-const GridBlock = CompLibrary.GridBlock
+type Props = {}
 
-class Help extends React.Component {
+export default class Help extends PureComponent<Props> {
   render () {
     const supportLinks = [
       {
@@ -44,5 +37,3 @@ class Help extends React.Component {
     )
   }
 }
-
-module.exports = Help
