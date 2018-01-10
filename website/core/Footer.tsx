@@ -1,68 +1,47 @@
-/**
- * Copyright (c) 2017-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
 const React = require('react')
 
-class Footer extends React.Component {
+type Props = {
+  language: string
+  config: {
+    baseUrl: string
+    title: string
+    repoUrl: string
+    footerIcon: string
+  }
+}
+
+module.exports = class Footer extends React.PureComponent<Props> {
   render () {
-    const currentYear = new Date().getFullYear()
+    const {
+      language,
+      config: { baseUrl, footerIcon, title, repoUrl }
+    } = this.props
     return (
       <footer className='nav-footer' id='footer'>
         <section className='sitemap'>
-          <a href={this.props.config.baseUrl} className='nav-home'>
+          <a href={baseUrl} className='nav-home'>
             <img
-              src={this.props.config.baseUrl + this.props.config.footerIcon}
-              alt={this.props.config.title}
+              src={baseUrl + footerIcon}
+              alt={title}
               width='66'
               height='58'
             />
           </a>
           <div>
             <h5>Docs</h5>
-            <a
-              href={
-                this.props.config.baseUrl +
-                'docs/' +
-                this.props.language +
-                '/doc1.html'
-              }
-            >
+            <a href={baseUrl + 'docs/' + language + '/doc1.html'}>
               Getting Started (or other categories)
             </a>
-            <a
-              href={
-                this.props.config.baseUrl +
-                'docs/' +
-                this.props.language +
-                '/doc2.html'
-              }
-            >
+            <a href={baseUrl + 'docs/' + language + '/doc2.html'}>
               Guides (or other categories)
             </a>
-            <a
-              href={
-                this.props.config.baseUrl +
-                'docs/' +
-                this.props.language +
-                '/doc3.html'
-              }
-            >
+            <a href={baseUrl + 'docs/' + language + '/doc3.html'}>
               API Reference (or other categories)
             </a>
           </div>
           <div>
             <h5>Community</h5>
-            <a
-              href={
-                this.props.config.baseUrl + this.props.language + '/users.html'
-              }
-            >
-              User Showcase
-            </a>
+            <a href={baseUrl + language + '/users.html'}>User Showcase</a>
             <a
               href='http://stackoverflow.com/questions/tagged/'
               target='_blank'
@@ -76,14 +55,14 @@ class Footer extends React.Component {
           </div>
           <div>
             <h5>More</h5>
-            <a href={this.props.config.baseUrl + 'blog'}>Blog</a>
+            <a href={baseUrl + 'blog'}>Blog</a>
             <a href='https://github.com/'>GitHub</a>
             <a
               className='github-button'
-              href={this.props.config.repoUrl}
+              href={repoUrl}
               data-icon='octicon-star'
               data-count-href='/facebook/docusaurus/stargazers'
-              data-show-count
+              data-show-count={true}
               data-count-aria-label='# stargazers on GitHub'
               aria-label='Star this project on GitHub'
             >
@@ -98,18 +77,16 @@ class Footer extends React.Component {
           className='fbOpenSource'
         >
           <img
-            src={this.props.config.baseUrl + 'img/oss_logo.png'}
+            src={baseUrl + 'img/oss_logo.png'}
             alt='Facebook Open Source'
             width='170'
             height='45'
           />
         </a>
         <section className='copyright'>
-          Copyright &copy; {currentYear} Facebook Inc.
+          Copyright &copy; {new Date().getFullYear()} Facebook Inc.
         </section>
       </footer>
     )
   }
 }
-
-module.exports = Footer

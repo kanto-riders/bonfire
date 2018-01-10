@@ -1,0 +1,8 @@
+{
+  "extends": ["@9renpoto/tslint-config", "tslint-react"],
+  "rules": {
+    "jsx-wrap-multiline": false,
+    "jsx-no-lambda": false,
+    "jsx-no-multiline-js": false
+  }
+}

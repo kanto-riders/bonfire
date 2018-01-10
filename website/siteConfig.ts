@@ -8,11 +8,16 @@ const users = [
   }
 ]
 
-const siteConfig = {
-  title: 'Happy bonfire!',
-  tagline: 'Happy bonfire!',
+const title = 'Happy bonfire!'
+const tagline = 'Happy bonfire!'
+const baseUrl = '/bonfire/'
+
+module.exports = {
+  users,
+  title,
+  tagline,
+  baseUrl,
   url: 'https://kanto-riders.github.io/bonfire/',
-  baseUrl: '/bonfire/',
   projectName: 'bonfire',
   headerLinks: [
     { doc: 'campsite', label: 'Campsite' },
@@ -20,7 +25,6 @@ const siteConfig = {
     { href: 'https://github.com/kanto-riders/bonfire/', label: 'GitHub' },
     { search: true }
   ],
-  users,
   /* path to images for header/footer */
   headerIcon: 'img/takibi.png',
   footerIcon: 'img/takibi.png',
@@ -40,5 +44,3 @@ const siteConfig = {
   scripts: ['https://buttons.github.io/buttons.js'],
   repoUrl: 'https://github.com/kanto-riders/bonfire/'
 }
-
-module.exports = siteConfig

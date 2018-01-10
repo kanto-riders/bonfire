@@ -2,26 +2,31 @@
   "name": "bonfire",
   "version": "1.0.0",
   "author": "Keisuke Kan <9renpoto@gmail.com>",
+  "dependencies": {},
   "devDependencies": {
     "@9renpoto/eslint-config": "^2.3.0",
     "@9renpoto/eslint-config-react": "^0.2.0",
+    "@9renpoto/tslint-config": "^3.4.0",
+    "@types/node": "^9.3.0",
+    "@types/react": "^16.0.34",
+    "cpx": "^1.5.0",
     "husky": "^0.14.3",
     "lint-staged": "^6.0.0",
-    "prettier-eslint-cli": "^4.6.1"
+    "prettier-eslint-cli": "^4.6.1",
+    "tslint": "^5.8.0",
+    "tslint-react": "^3.3.3",
+    "typescript": "^2.6.2",
+    "typescript-eslint-parser": "^11.0.0"
   },
   "license": "MIT",
   "lint-staged": {
-    "*.{js,jsx}": [
-      "prettier-eslint --write",
-      "eslint",
+    "*.{ts,tsx}": [
+      "prettier-eslint --write --parser typescript",
+      "tslint --fix",
       "git add"
     ],
     "*.css": [
       "prettier --parser postcss",
-      "git add"
-    ],
-    "*.md": [
-      "prettier --parser markdown",
       "git add"
     ]
   },
@@ -29,9 +34,9 @@
   "private": true,
   "repository": "ssh://git@github.com/kanto-riders/bonfire.git",
   "scripts": {
-    "build": "cd website && npm run build",
+    "build": "npm run clean && cd website && npm install && npm run build",
+    "clean": "rimraf website/node_modules coverage && find website -type f -name '*.js' -exec rm {} \\;",
     "deploy": "cd website && npm run publish-gh-pages",
-    "postinstall": "cd website && yarn",
     "precommit": "lint-staged",
     "start": "cd website && npm start",
     "test": "eslint . --ext=js.jsx"
