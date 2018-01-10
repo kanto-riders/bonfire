@@ -1,10 +1,10 @@
-import React, { PureComponent } from 'react'
+const React = require('react')
 
-import { Container, GridBlock } from 'docusaurus/lib/core/CompLibrary'
+const { Container, GridBlock } = require('../../core/CompLibrary')
 
 type Props = {}
 
-export default class Help extends PureComponent<Props> {
+module.exports = class Help extends React.PureComponent<Props> {
   render () {
     const supportLinks = [
       {

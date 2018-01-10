@@ -1,5 +1,5 @@
 /* List of projects/orgs using your project for the users page */
-export const users = [
+const users = [
   {
     caption: 'User1',
     image: '/test-site/img/docusaurus.svg',
@@ -8,11 +8,15 @@ export const users = [
   }
 ]
 
-export const title = 'Happy bonfire!'
-export const tagline = 'Happy bonfire!'
-export const baseUrl = '/bonfire/'
+const title = 'Happy bonfire!'
+const tagline = 'Happy bonfire!'
+const baseUrl = '/bonfire/'
 
-export default {
+module.exports = {
+  users,
+  title,
+  tagline,
+  baseUrl,
   url: 'https://kanto-riders.github.io/bonfire/',
   projectName: 'bonfire',
   headerLinks: [

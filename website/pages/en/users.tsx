@@ -1,10 +1,10 @@
 import React, { PureComponent } from 'react'
 
-import { Container } from 'docusaurus/lib/core/CompLibrary'
+import { Container } from '../../core/CompLibrary'
 
-import { users } from '../../siteConfig'
+const { users } = require('../../siteConfig')
 
-export class Users extends PureComponent {
+module.exports = class Users extends PureComponent {
   render () {
     const showcase = users.map((user, i) => {
       return (

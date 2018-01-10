@@ -2,15 +2,14 @@
   "name": "bonfire",
   "version": "1.0.0",
   "author": "Keisuke Kan <9renpoto@gmail.com>",
-  "dependencies": {
-    "docusaurus": "^1.0.5"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@9renpoto/eslint-config": "^2.3.0",
     "@9renpoto/eslint-config-react": "^0.2.0",
     "@9renpoto/tslint-config": "^3.4.0",
     "@types/node": "^9.3.0",
     "@types/react": "^16.0.34",
+    "cpx": "^1.5.0",
     "husky": "^0.14.3",
     "lint-staged": "^6.0.0",
     "prettier-eslint-cli": "^4.6.1",
@@ -39,7 +38,7 @@
     "clean": "rimraf website/node_modules coverage && find website -type f -name '*.js' -exec rm {} \\;",
     "deploy": "cd website && npm run publish-gh-pages",
     "precommit": "lint-staged",
-    "start": "npm run clean && tsc && cd website && npm install && npm start",
+    "start": "cd website && npm start",
     "test": "eslint . --ext=js.jsx"
   }
 }

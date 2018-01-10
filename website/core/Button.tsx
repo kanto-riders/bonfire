@@ -1,4 +1,4 @@
-import React, { PureComponent } from 'react'
+const React = require('react')
 
 type Props = {
   href: any
@@ -6,7 +6,7 @@ type Props = {
   children: any
 }
 
-export class Button extends PureComponent<Props> {
+export class Button extends React.PureComponent<Props> {
   public static defaultProps = { target: '_self' }
   render () {
     const { children, href, target } = this.props

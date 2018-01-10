@@ -1,4 +1,4 @@
-import React, { PureComponent } from 'react'
+const React = require('react')
 
 type Props = {
   language: string
@@ -10,7 +10,7 @@ type Props = {
   }
 }
 
-export default class Footer extends PureComponent<Props> {
+module.exports = class Footer extends React.PureComponent<Props> {
   render () {
     const {
       language,

@@ -1,11 +1,11 @@
-import React, { PureComponent } from 'react'
-import { Button } from './Button'
+const React = require('react')
+const { Button } = require(`${process.cwd()}/core/Button`)
 
-import { baseUrl, tagline, title } from '../siteConfig'
+const { baseUrl, tagline, title } = require(`${process.cwd()}/siteConfig`)
 
 type Props = {}
 
-export class HomeSplash extends PureComponent<Props> {
+export class HomeSplash extends React.PureComponent<Props> {
   render () {
     return (
       <div className='homeContainer'>

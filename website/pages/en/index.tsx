@@ -1,18 +1,18 @@
-import {
+const React = require('react')
+const {
   Container,
   GridBlock,
   MarkdownBlock
-} from 'docusaurus/lib/core/CompLibrary'
-import React, { Fragment, PureComponent } from 'react'
+} = require('../../core/CompLibrary')
 
-import { HomeSplash } from '../../components/HomeSplash'
-import { baseUrl, title, users } from '../../siteConfig'
+const { HomeSplash } = require(`${process.cwd()}/core/HomeSplash`)
+const { baseUrl, title, users } = require(`${process.cwd()}/siteConfig.js`)
 
 type Props = {
   language: string
 }
 
-export class Index extends PureComponent<Props> {
+module.exports = class Index extends React.PureComponent<Props> {
   render () {
     const showcase = users
       .filter(user => {
@@ -25,7 +25,7 @@ export class Index extends PureComponent<Props> {
       ))
 
     return (
-      <Fragment>
+      <div>
         <HomeSplash />
         <div className='mainContainer'>
           <Container padding={['bottom', 'top']}>
@@ -108,7 +108,7 @@ export class Index extends PureComponent<Props> {
             </div>
           </div>
         </div>
-      </Fragment>
+      </div>
     )
   }
 }
