@@ -7,7 +7,7 @@
     "@9renpoto/eslint-config-react": "^0.2.0",
     "husky": "^0.14.3",
     "lint-staged": "^6.0.0",
-    "prettier-eslint-cli": "^4.6.1"
+    "prettier-eslint-cli": "^4.7.0"
   },
   "license": "MIT",
   "lint-staged": {
