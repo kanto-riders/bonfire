@@ -1,10 +1,3 @@
-/**
- * Copyright (c) 2017-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
 const React = require('react')
 
 const CompLibrary = require('../../core/CompLibrary.js')
@@ -14,13 +7,11 @@ const siteConfig = require(process.cwd() + '/siteConfig.js')
 
 class Users extends React.Component {
   render () {
-    const showcase = siteConfig.users.map((user, i) => {
-      return (
-        <a href={user.infoLink} key={i}>
-          <img src={user.image} title={user.caption} />
-        </a>
-      )
-    })
+    const showcase = siteConfig.users.map((user, i) => (
+      <a href={user.infoLink} key={i}>
+        <img src={user.image} title={user.caption} />
+      </a>
+    ))
 
     return (
       <div className='mainContainer'>
@@ -33,10 +24,10 @@ class Users extends React.Component {
             <div className='logos'>{showcase}</div>
             <p>Are you using this project?</p>
             <a
-              href='https://github.com/facebook/docusaurus/edit/master/website/siteConfig.js'
+              href={`${siteConfig.repoUrl}edit/master/website/siteConfig.js`}
               className='button'
             >
-              Add your company
+              Add your profile
             </a>
           </div>
         </Container>

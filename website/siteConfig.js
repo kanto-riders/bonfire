@@ -1,16 +1,17 @@
 /* List of projects/orgs using your project for the users page */
 const users = [
   {
-    caption: 'User1',
-    image: '/test-site/img/docusaurus.svg',
-    infoLink: 'https://www.facebook.com',
+    caption: '9renpoto',
+    image:
+      'https://pbs.twimg.com/profile_images/583632411977613312/f9u76num_400x400.png',
+    infoLink: 'https://twitter.com/9renpoto',
     pinned: true
   }
 ]
 
 const siteConfig = {
   title: 'Happy bonfire!',
-  tagline: 'Happy bonfire!',
+  tagline: '焚き火を楽しむ',
   url: 'https://kanto-riders.github.io/bonfire/',
   baseUrl: '/bonfire/',
   projectName: 'bonfire',

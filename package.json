@@ -16,16 +16,12 @@
       "eslint",
       "git add"
     ],
-    "*.css": [
-      "prettier --parser postcss",
-      "git add"
-    ],
-    "*.md": [
-      "prettier --parser markdown",
+    "*.{md,css}": [
+      "prettier --write",
       "git add"
     ]
   },
-  "main": "index.js",
+  "main": "n/a",
   "private": true,
   "repository": "ssh://git@github.com/kanto-riders/bonfire.git",
   "scripts": {
