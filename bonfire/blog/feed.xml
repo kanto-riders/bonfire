@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Happy bonfire! Blog</title>
+        <link>https://kanto-riders.github.io/bonfire//blog</link>
+        <description>The best place to stay up-to-date with the latest Happy bonfire! news and events.</description>
+        <lastBuildDate>Sun, 21 Jan 2018 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Happy bonfire! Blog</title>
+            <url>https://kanto-riders.github.io/bonfire/img/takibi.png</url>
+            <link>https://kanto-riders.github.io/bonfire//blog</link>
+        </image>
+        <copyright>Copyright © 2018Kanto riders</copyright>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>https://kanto-riders.github.io/bonfire//blog/2018/01/21/first.html</link>
+            <guid>https://kanto-riders.github.io/bonfire//blog/2018/01/21/first.html</guid>
+            <pubDate>Sun, 21 Jan 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[Hello riders, and Outdoor masters!]]></description>
+        </item>
+    </channel>
+</rss>

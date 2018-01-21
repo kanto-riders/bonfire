@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kanto-riders.github.io/bonfire//blog</id>
+    <title>Happy bonfire! Blog</title>
+    <updated>2018-01-21T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://kanto-riders.github.io/bonfire//blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Happy bonfire! news and events.</subtitle>
+    <logo>https://kanto-riders.github.io/bonfire/img/takibi.png</logo>
+    <rights>Copyright © 2018Kanto riders</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://kanto-riders.github.io/bonfire//blog/2018/01/21/first.html</id>
+        <link href="https://kanto-riders.github.io/bonfire//blog/2018/01/21/first.html">
+        </link>
+        <updated>2018-01-21T06:00:00Z</updated>
+        <summary type="html"><![CDATA[Hello riders, and Outdoor masters!]]></summary>
+        <author>
+            <name>9renpoto</name>
+            <uri>http://twitter.com/9renpoto</uri>
+        </author>
+    </entry>
+</feed>
