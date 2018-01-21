@@ -1,14 +1,6 @@
-/**
- * Copyright (c) 2017-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
 const React = require('react')
 
 const CompLibrary = require('../../core/CompLibrary.js')
-const MarkdownBlock = CompLibrary.MarkdownBlock /* Used to read markdown */
 const Container = CompLibrary.Container
 const GridBlock = CompLibrary.GridBlock
 
@@ -47,26 +39,11 @@ class HomeSplash extends React.Component {
               <div className='section promoSection'>
                 <div className='promoRow'>
                   <div className='pluginRowBlock'>
-                    <Button href='#try'>Try It Out</Button>
-                    <Button
-                      href={
-                        siteConfig.baseUrl +
-                        'docs/' +
-                        this.props.language +
-                        '/doc1.html'
-                      }
-                    >
-                      Example Link
+                    <Button href={`${siteConfig.baseUrl}docs/items.html`}>
+                      Items
                     </Button>
-                    <Button
-                      href={
-                        siteConfig.baseUrl +
-                        'docs/' +
-                        this.props.language +
-                        '/doc2.html'
-                      }
-                    >
-                      Example Link 2
+                    <Button href={`${siteConfig.baseUrl}/docs/campsite.html`}>
+                      Campsite
                     </Button>
                   </div>
                 </div>
@@ -79,20 +56,9 @@ class HomeSplash extends React.Component {
   }
 }
 
-class Index extends React.Component {
+module.exports = class Index extends React.Component {
   render () {
     const language = this.props.language || 'en'
-    const showcase = siteConfig.users
-      .filter(user => {
-        return user.pinned
-      })
-      .map(user => {
-        return (
-          <a href={user.infoLink}>
-            <img src={user.image} title={user.caption} />
-          </a>
-        )
-      })
 
     return (
       <div>
@@ -103,80 +69,29 @@ class Index extends React.Component {
               align='center'
               contents={[
                 {
-                  content: 'This is the content of my feature',
-                  image: siteConfig.baseUrl + 'img/docusaurus.svg',
+                  content: '走る',
+                  image: siteConfig.baseUrl + 'img/bike_helmet_man.png',
                   imageAlign: 'top',
-                  title: 'Feature One'
+                  title: 'touring'
                 },
                 {
-                  content: 'The content of my second feature',
-                  image: siteConfig.baseUrl + 'img/docusaurus.svg',
+                  content: '野で戯れる',
+                  image: siteConfig.baseUrl + 'img/camp_hifukibou_man.png',
                   imageAlign: 'top',
-                  title: 'Feature Two'
+                  title: 'Camp'
                 }
               ]}
               layout='fourColumn'
             />
           </Container>
 
-          <div
-            className='productShowcaseSection paddingBottom'
-            style={{ textAlign: 'center' }}
-          >
-            <h2>Feature Callout</h2>
-            <MarkdownBlock>These are features of this project</MarkdownBlock>
-          </div>
-
-          <Container padding={['bottom', 'top']} background='light'>
-            <GridBlock
-              contents={[
-                {
-                  content: 'Talk about learning how to use this',
-                  image: siteConfig.baseUrl + 'img/docusaurus.svg',
-                  imageAlign: 'right',
-                  title: 'Learn How'
-                }
-              ]}
-            />
-          </Container>
-
-          <Container padding={['bottom', 'top']} id='try'>
-            <GridBlock
-              contents={[
-                {
-                  content: 'Talk about trying this out',
-                  image: siteConfig.baseUrl + 'img/docusaurus.svg',
-                  imageAlign: 'left',
-                  title: 'Try it Out'
-                }
-              ]}
-            />
-          </Container>
-
-          <Container padding={['bottom', 'top']} background='dark'>
-            <GridBlock
-              contents={[
-                {
-                  content:
-                    'This is another description of how this project is useful',
-                  image: siteConfig.baseUrl + 'img/docusaurus.svg',
-                  imageAlign: 'right',
-                  title: 'Description'
-                }
-              ]}
-            />
-          </Container>
-
           <div className='productShowcaseSection paddingBottom'>
-            <h2>{"Who's Using This?"}</h2>
+            <h2>Who's Using This?</h2>
             <p>This project is used by all these people</p>
-            <div className='logos'>{showcase}</div>
             <div className='more-users'>
               <a
                 className='button'
-                href={
-                  siteConfig.baseUrl + this.props.language + '/' + 'users.html'
-                }
+                href={siteConfig.baseUrl + language + '/' + 'users.html'}
               >
                 More {siteConfig.title} Users
               </a>
@@ -187,5 +102,3 @@ class Index extends React.Component {
     )
   }
 }
-
-module.exports = Index
