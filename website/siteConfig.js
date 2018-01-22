@@ -6,6 +6,13 @@ const users = [
       'https://pbs.twimg.com/profile_images/583632411977613312/f9u76num_400x400.png',
     infoLink: 'https://twitter.com/9renpoto',
     pinned: true
+  },
+  {
+    caption: '9renpoto',
+    image:
+      'https://pbs.twimg.com/profile_images/2034565824/key3_400x400.jpg',
+    infoLink: 'https://twitter.com/key3',
+    pinned: true
   }
 ]
 
