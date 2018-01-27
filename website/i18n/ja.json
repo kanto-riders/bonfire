@@ -8,10 +8,13 @@
     "Campsite": "Campsite",
     "items": "Items",
     "Items": "Items",
+    "Help": "Help",
     "Blog": "Blog",
     "GitHub": "GitHub"
   },
   "pages-strings": {
+    "Need help?|no description given": "Need help?",
+    "This project is maintained by a dedicated group of people.|no description given": "This project is maintained by a dedicated group of people.",
     "Items|no description given": "Items",
     "Campsite|no description given": "Campsite",
     "走る|no description given": "走る",
