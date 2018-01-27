@@ -23,6 +23,7 @@ const siteConfig = {
   projectName: 'bonfire',
   headerLinks: [
     { doc: 'campsite', label: 'Campsite' },
+    { page: 'help', label: 'Help' },
     { blog: true, label: 'Blog' },
     { href: 'https://github.com/kanto-riders/bonfire/', label: 'GitHub' },
     { search: true }
@@ -41,7 +42,8 @@ const siteConfig = {
     theme: 'default'
   },
   scripts: ['https://buttons.github.io/buttons.js'],
-  repoUrl: 'https://github.com/kanto-riders/bonfire/'
+  repoUrl: 'https://github.com/kanto-riders/bonfire/',
+  gaTrackingId: 'UA-113151047-1'
 }
 
 module.exports = siteConfig
