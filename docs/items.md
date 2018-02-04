@@ -6,8 +6,16 @@ sidebar_label: Items
 
 # bonfire
 
-## 持ち物
+## Must have
 
+* テント
+* シュラフ
+* マグ
+
+## Better have
+
+* バーナー
+* クッカー
 * 焚火台
 * ナタ / ナイフ / ノコギリ
 * 着火剤
