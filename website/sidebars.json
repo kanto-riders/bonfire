@@ -1,6 +1,8 @@
 {
   "docs": {
-    "Campsite": ["campsite"],
-    "Items": ["items"]
+    "Knowledge": [
+      "campsite",
+      "items"
+    ]
   }
 }
