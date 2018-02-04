@@ -6,7 +6,7 @@ authorFBID: <AUTHOR_FACEBOOK_ID>
 ---
 
 # Campsite
-(Someone post pics!)
+(Summary. And someone post pics!)
 
 # Members
 - (Who goes)
