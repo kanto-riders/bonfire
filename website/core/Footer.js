@@ -4,16 +4,21 @@ module.exports = function Footer ({
   language,
   config: { baseUrl, footerIcon, title, repoUrl }
 }) {
-  const currentYear = new Date().getFullYear()
   return (
     <footer className='nav-footer' id='footer'>
       <section className='sitemap'>
         <a href={baseUrl} className='nav-home'>
-          <img src={baseUrl + footerIcon} alt={title} width='66' height='58' />
+          <img
+            src={`${baseUrl}${footerIcon}`}
+            alt={title}
+            width='66'
+            height='58'
+          />
         </a>
         <div>
           <h5>Docs</h5>
-          <a href={baseUrl + 'docs/' + language + '/items.html'}>Items</a>
+          <a href={`${baseUrl}docs/${language}/campsite.html`}>Campsite</a>
+          <a href={`${baseUrl}docs/${language}/items.html`}>Items</a>
         </div>
         <div>
           <h5>Community</h5>
@@ -21,8 +26,8 @@ module.exports = function Footer ({
         </div>
         <div>
           <h5>More</h5>
-          <a href={baseUrl + 'blog'}>Blog</a>
-          <a href='https://github.com/kanto-riders/bonfire/'>GitHub</a>
+          <a href={`${baseUrl}blog`}>Blog</a>
+          <a href={repoUrl}>GitHub</a>
           <a
             className='github-button'
             href={repoUrl}
@@ -38,7 +43,7 @@ module.exports = function Footer ({
       </section>
 
       <section className='copyright'>
-        Copyright &copy; {currentYear} Kanto Riders.
+        Copyright &copy; {new Date().getFullYear()} Kanto Riders.
       </section>
     </footer>
   )
