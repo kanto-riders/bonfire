@@ -1,5 +1,6 @@
 # @kanto-riders/bonfire
 
+[![CircleCI](https://circleci.com/gh/kanto-riders/bonfire/tree/master.svg?style=svg)](https://circleci.com/gh/kanto-riders/bonfire/tree/master)
 [![Build Status](https://travis-ci.org/kanto-riders/bonfire.svg?branch=master)](https://travis-ci.org/kanto-riders/bonfire)
 [![codebeat badge](https://codebeat.co/badges/d3f7c5eb-c3e7-4712-9a38-f58aaede9a6c)](https://codebeat.co/projects/github-com-kanto-riders-bonfire-master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8fbdf98b164142aabea1b23bd2995e95)](https://www.codacy.com/app/kanto-riders/bonfire?utm_source=github.com&utm_medium=referral&utm_content=kanto-riders/bonfire&utm_campaign=Badge_Grade)
