@@ -2,12 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kanto-riders.github.io/bonfire//blog</id>
     <title>Happy bonfire! Blog</title>
-    <updated>2018-01-21T06:00:00Z</updated>
+    <updated>2018-02-04T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://kanto-riders.github.io/bonfire//blog"/>
     <subtitle>The best place to stay up-to-date with the latest Happy bonfire! news and events.</subtitle>
     <logo>https://kanto-riders.github.io/bonfire/img/takibi.png</logo>
     <rights>Copyright © 2018Kanto riders</rights>
+    <entry>
+        <title type="html"><![CDATA[Feedback 12/16/2017]]></title>
+        <id>https://kanto-riders.github.io/bonfire//blog/2018/02/04/feedback20171216.html</id>
+        <link href="https://kanto-riders.github.io/bonfire//blog/2018/02/04/feedback20171216.html">
+        </link>
+        <updated>2018-02-04T06:00:00Z</updated>
+        <summary type="html"><![CDATA[# Keep
+- ハクキンカイロ良かった
+- ミニテーブルは薪割り作業に良かった
+- テントはMサイズコンプレッションバッグで良さそう
+
+# Problem
+- 荷物重すぎる
+- サイドスタンドが地面に埋まる、短すぎる
+- タープポール長過ぎ
+- ニンジャタープ 壊れた…
+- クッカー要らなかった
+- 椅子が低い
+- まな板がない
+- 湯たんぽあったら良かった
+
+# Try
+- ミニリュックあると買い出しが便利
+- まな板追加
+- 湯たんぽ]]></summary>
+        <author>
+            <name>key3</name>
+            <uri>http://twitter.com/key3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://kanto-riders.github.io/bonfire//blog/2018/01/21/first.html</id>
