@@ -42,8 +42,8 @@ sidebar_label: Items
 ## Electric device support
 
 * [ ] モバイルバッテリー
-* [ ] Lightning充電ケーブル
-* [ ] microUSB充電ケーブル
+* [ ] Lightning 充電ケーブル
+* [ ] microUSB 充電ケーブル
 * [ ] 温度計
 
 ## Cooking
@@ -62,7 +62,7 @@ sidebar_label: Items
 ### Burner: OD
 
 * [ ] バーナー
-* [ ] OD缶
+* [ ] OD 缶
 * [ ] ライター
 
 ### Burner: Petrol
@@ -106,13 +106,13 @@ sidebar_label: Items
 
 * [ ] コーヒーミル
 * [ ] 豆
-* [ ] BioLiteケトル
-* [ ] BioLiteコーヒープレス
+* [ ] BioLite ケトル
+* [ ] BioLite コーヒープレス
 * [ ] マグ
 
 ### Relaxation: Musics
 
-* [ ] Bluetoothスピーカー
+* [ ] Bluetooth スピーカー
 
 ### Relexation: Reading
 
@@ -120,7 +120,7 @@ sidebar_label: Items
 
 ## In Summar
 
-* [ ] 虫除け 
+* [ ] 虫除け
 * [ ] 寝間着の短パン
 
 ## In Winter
@@ -156,24 +156,3 @@ sidebar_label: Items
   * [SOTO スライドガストーチ](https://www.amazon.co.jp/dp/B004WMPFWA/) 
     * 先端が伸びるので奥底に埋まった着火剤などに点火するのが容易。
     * CB 缶のガスがそのまま入れられる。
-
-<details>
-<summary>初期案 (Deprecated)</summary>
-
-## Must have
-
-* テント
-* シュラフ
-* マグ
-
-## Better have
-
-* バーナー
-* クッカー
-* 焚火台
-* ナタ / ナイフ / ノコギリ
-* 着火剤
-* ライター
-* 火箸
-
-</details>
