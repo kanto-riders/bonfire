@@ -9,23 +9,23 @@ sidebar_label: Items
 
 * [ ] Tent
 * [ ] Grand sheet
-* [ ] 張り綱
+* [ ] Tightrope
 * [ ] Peg
 * [ ] Hammer
 * [ ] Lanthanum
 
 ## Sleep
 
-* [ ] Shruff
-* [ ] Inner Shruff
+* [ ] Sleeping bag
+* [ ] Inner schlaff
 * [ ] Pillow
-* [ ] マットまたはコット
-* [ ] 耳栓
-* [ ] アイマスク
+* [ ] Mat or cot
+* [ ] Ear plugs
+* [ ] Sleep mask
 
 ## Livingware
 
-* [ ] 歯ブラシ、歯磨き粉
+* [ ] Toothbrush, toothpaste
 * [ ] 芯抜きトイレットペーパー
 * [ ] ウェットティッシュ
 
