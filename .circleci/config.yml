@@ -1,38 +1,79 @@
-version: 2
-jobs:
-  lint:
-    machine: true
+aliases:
+  - &restore-yarn-cache
+    keys:
+      - v1-yarn-{{ .Branch }}-{{ checksum "yarn.lock" }}
+      # Fallback in case checksum fails
+      - v1-yarn-{{ .Branch }}-
+
+  - &save-yarn-cache
+    paths:
+      - node_modules
+      - ~/.cache/yarn
+    key: v1-yarn-{{ .Branch }}-{{ checksum "yarn.lock" }}
+
+  - &filter-only-master
+    branches:
+      only:
+        - master
+
+  - &filter-ignore-gh-pages
     branches:
       ignore: gh-pages
-    docker:
-      - image: circleci/node:7.10
-    working_directory: ~/repo
+
+  - &yarn
+    |
+      yarn install --non-interactive --cache-folder ~/.cache/yarn
+
+defaults: &defaults
+  working_directory: ~/docusaurus
+  docker:
+    - image: circleci/node:9
+
+version: 2
+jobs:
+  tests:
+  <<: *defaults
+  steps:
+    - checkout
+    - restore-cache: *restore-yarn-cache
+    - run: *yarn
+    - save-cache: *save-yarn-cache
+    - run:
+        name: Check Prettier
+        command: yarn ci-check
+    - run:
+        name: Run Test Suites
+        command: yarn test
+    - run:
+        name: Test Static Website Builds
+        command: cd website && yarn run build
+
+  deploy-website:
+    <<: *defaults
     steps:
       - checkout
-      - restore_cache:
-          keys:
-          - v1-dependencies-{{ checksum "package.json" }}
-          - v1-dependencies-
-      - run: yarn install
-      - save_cache:
-          paths:
-            - node_modules
-          key: v1-dependencies-{{ checksum "package.json" }}
-      - run: yarn test
-  deploy:
-    docker:
-      - image: circleci/node:7.10
-    working_directory: ~/repo
-    steps:
+      - restore-cache: *restore-yarn-cache
+      - run: *yarn
+      - save-cache: *save-yarn-cache
       - run:
-          name: Deploy if tests pass and branch is Master
-          command: cd website && npm install && GIT_USER=<GIT_USER> USE_SSH=true npm run publish-gh-pages
+          name: Deploy Website
+          # Skip the deploy if we don't have the right org (facebook), or if this is just a pull request
+          command: |
+            if [[ -z $CI_PULL_REQUEST && -z $CIRCLE_PR_USERNAME ]]; then
+              echo "Deploying website..."
+              cd website && GIT_USER=<GIT_USER> USE_SSH=false yarn run publish-gh-pages
+            else
+              echo "Skipping deploy."
+            fi
 
 workflows:
   version: 2
-  build-deploy:
+
+  website:
     jobs:
-      - deploy:
-          filters:
-            branches:
-              only: master
+      - tests:
+          filters: *filter-ignore-gh-pages
+      - deploy-website:
+          requires:
+            - tests
+          filters: *filter-only-master
