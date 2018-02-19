@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Keisuke Kan <9renpoto@gmail.com>",
   "devDependencies": {
-    "@9renpoto/eslint-config": "^2.4.0",
+    "@9renpoto/eslint-config": "^4.0.0",
     "@9renpoto/eslint-config-react": "^0.2.0",
     "eslint": "^4.17.0",
     "husky": "^0.14.3",
