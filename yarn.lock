@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@9renpoto/eslint-config-react@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@9renpoto/eslint-config-react/-/eslint-config-react-0.2.0.tgz#e3ae048d0463ecc83a1f22d35a0c8a9bf8f317ec"
+"@9renpoto/eslint-config-react@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@9renpoto/eslint-config-react/-/eslint-config-react-4.0.0.tgz#bcd0c6101ec5ddd5d6fd43569aab321b658c6ef6"
   dependencies:
     eslint-config-standard-react "^5.0.0"
-    eslint-plugin-react "^7.2.1"
+    eslint-plugin-react "^7.6.1"
 
 "@9renpoto/eslint-config@^4.0.0":
   version "4.0.0"
@@ -367,7 +367,7 @@ doctrine@1.5.0:
     esutils "^2.0.2"
     isarray "^1.0.0"
 
-doctrine@^2.0.0, doctrine@^2.0.2:
+doctrine@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/doctrine/-/doctrine-2.0.2.tgz#68f96ce8efc56cc42651f1faadb4f175273b0075"
   dependencies:
@@ -473,13 +473,13 @@ eslint-plugin-promise@^3.6.0:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-promise/-/eslint-plugin-promise-3.6.0.tgz#54b7658c8f454813dc2a870aff8152ec4969ba75"
 
-eslint-plugin-react@^7.2.1:
-  version "7.5.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.5.1.tgz#52e56e8d80c810de158859ef07b880d2f56ee30b"
+eslint-plugin-react@^7.6.1:
+  version "7.6.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.6.1.tgz#5d0e908be599f0c02fbf4eef0c7ed6f29dff7633"
   dependencies:
-    doctrine "^2.0.0"
+    doctrine "^2.0.2"
     has "^1.0.1"
-    jsx-ast-utils "^2.0.0"
+    jsx-ast-utils "^2.0.1"
     prop-types "^15.6.0"
 
 eslint-plugin-standard@^3.0.1:
@@ -1033,7 +1033,7 @@ json-stable-stringify-without-jsonify@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz#9db7b59496ad3f3cfef30a75142d2d930ad72651"
 
-jsx-ast-utils@^2.0.0:
+jsx-ast-utils@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/jsx-ast-utils/-/jsx-ast-utils-2.0.1.tgz#e801b1b39985e20fffc87b40e3748080e2dcac7f"
   dependencies:
