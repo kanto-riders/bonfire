@@ -8,7 +8,7 @@
     "eslint": "^4.17.0",
     "husky": "^0.14.3",
     "lint-staged": "^6.1.0",
-    "prettier-eslint-cli": "^4.7.0"
+    "prettier-eslint-cli": "^4.7.1"
   },
   "license": "MIT",
   "lint-staged": {
