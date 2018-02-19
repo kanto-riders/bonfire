@@ -5,7 +5,7 @@
   "devDependencies": {
     "@9renpoto/eslint-config": "^2.4.0",
     "@9renpoto/eslint-config-react": "^0.2.0",
-    "eslint": "^4.17.0",
+    "eslint": "^4.18.0",
     "husky": "^0.14.3",
     "lint-staged": "^6.1.0",
     "prettier-eslint-cli": "^4.7.0"
