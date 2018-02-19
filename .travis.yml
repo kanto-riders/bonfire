@@ -8,7 +8,6 @@ before_install:
 - ssh-add deploy_key
 - git config --global user.name "9renpoto"
 - git config --global user.email "9renpoto+kanto-riders@gmail.com"
-- ssh -T git@github.com
 env:
   matrix:
   - CMD=test
