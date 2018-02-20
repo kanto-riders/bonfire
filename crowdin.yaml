@@ -4,6 +4,6 @@ base_path: ./
 preserve_hierarchy: true
 files:
   - source: /docs/*.md
-    translation: /website/translated_docs/%language%/%original_file_name%
+    translation: /website/translated_docs/%two_letters_code%/%original_file_name%
   - source: /website/i18n/en.json
-    translation: /website/i18n/%language%.json
+    translation: /website/i18n/%two_letters_code%.json
