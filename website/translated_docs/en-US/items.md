@@ -7,90 +7,90 @@ sidebar_label: Items
 
 ## Bed
 
-* [ ] テント
-* [ ] グランドシート
-* [ ] 張り綱
-* [ ] ペグ
-* [ ] ハンマー
-* [ ] ランタン
+* [ ] Tent
+* [ ] Grand sheet
+* [ ] Tightrope
+* [ ] Peg
+* [ ] Hammer
+* [ ] Lanthanum
 
 ## Sleep
 
-* [ ] シュラフ
-* [ ] インナーシュラフ
-* [ ] ピロー
-* [ ] マットまたはコット
-* [ ] 耳栓
-* [ ] アイマスク
+* [ ] Sleeping bag
+* [ ] Inner schlaff
+* [ ] Pillow
+* [ ] Mat or cot
+* [ ] Ear plugs
+* [ ] Sleep mask
 
 ## Livingware
 
-* [ ] 歯ブラシ、歯磨き粉
-* [ ] 芯抜きトイレットペーパー
-* [ ] ウェットティッシュ
+* [ ] Toothbrush, toothpaste
+* [ ] Core without toilet paper
+* [ ] Wet wipes
 
 ## Luggage
 
-* [ ] パッカブルバックパック
+* [ ] Packable backpack
 
 ## Medicine
 
-* [ ] エマージェンシーキット
-* [ ] 薬
-* [ ] 虫刺されの薬
+* [ ] Emergency kit
+* [ ] Drug
+* [ ] Insect sting medicine
 
 ## Electric device support
 
-* [ ] モバイルバッテリー
-* [ ] Lightning 充電ケーブル
-* [ ] microUSB 充電ケーブル
-* [ ] 温度計
+* [ ] Mobile battery
+* [ ] Lightning charge cable
+* [ ] microUSB charging cable
+* [ ] Thermometer
 
 ## Cooking
 
-* [ ] 箸、スプーン、フォーク
-* [ ] クッカー
-* [ ] マグ
-* [ ] テーブル
-* [ ] キッチンペーパー
-* [ ] アルミホイル
-* [ ] 調味料
-* [ ] ウォータータンク
-* [ ] ポリ袋
-* [ ] ジップロック
+* [ ] Chopsticks, spoons, forks,
+* [ ] Cooker
+* [ ] Mag
+* [ ] Table
+* [ ] Kitchen paper
+* [ ] Aluminum foil
+* [ ] Seasoning
+* [ ] Water tank
+* [ ] Plastic bags
+* [ ] Zip
 
 ### Burner: OD
 
-* [ ] バーナー
-* [ ] OD 缶
-* [ ] ライター
+* [ ] Burner
+* [ ] OD cans
+* [ ] Writers
 
 ### Burner: Petrol
 
-* [ ] バーナー
-* [ ] バーナー燃料ボトル
-* [ ] ガソリン携行缶
+* [ ] Burner
+* [ ] Burner fuel bottle
+* [ ] Carrying petrol cans
 
 ## Relaxation
 
-* [ ] タープ
-* [ ] タープポール
-* [ ] レジャーシート
-* [ ] サンダル
-* [ ] チェア
-* [ ] ヘッドライト
-* [ ] ランタン
-* [ ] お酒
+* [ ] Tarp
+* [ ] Tape pole
+* [ ] Leisure sheet
+* [ ] Sandals
+* [ ] Chair
+* [ ] Head light
+* [ ] Lanthanum
+* [ ] Alcohol
 
 ### Relaxation: Bonfire
 
 * [ ] 焚火台
-* [ ] ライター
+* [ ] Writers
 * [ ] 軍手
-* [ ] ナイフ
+* [ ] Knife
 * [ ] ナタ
-* [ ] ノコギリ
-* [ ] 着火剤
+* [ ] Saw
+* [ ] Firelighters
 
 ### Relaxation: Drip coffee
 
