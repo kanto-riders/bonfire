@@ -25,7 +25,7 @@ function HomeSplash ({ language }) {
       <div className='homeSplashFade'>
         <div className='wrapper homeWrapper'>
           <div className='projectLogo'>
-            <img src={siteConfig.baseUrl + 'img/takibi.png'} />
+            <img src={siteConfig.baseUrl + 'img/bg_home.png'} />
           </div>
           <div className='inner'>
             <h2 className='projectTitle'>
@@ -37,6 +37,7 @@ function HomeSplash ({ language }) {
                 <div className='pluginRowBlock'>
                   <Button
                     href={`${siteConfig.baseUrl}docs/${language}/items.html`}
+                    class='red'
                   >
                     <translate>Items</translate>
                   </Button>
@@ -62,19 +63,19 @@ module.exports = function Index ({ language }) {
     <div>
       <HomeSplash language={language} />
       <div className='mainContainer'>
-        <Container padding={['bottom', 'top']}>
+        <Container className='introSection productShowcaseSection'>
           <GridBlock
             align='center'
             contents={[
               {
                 content: <translate>走る</translate>,
-                image: siteConfig.baseUrl + 'img/bike_helmet_man.png',
+                image: siteConfig.baseUrl + 'img/icon_intro1.png',
                 imageAlign: <translate>top</translate>,
                 title: <translate>touring</translate>
               },
               {
                 content: <translate>野で戯れる</translate>,
-                image: siteConfig.baseUrl + 'img/camp_hifukibou_man.png',
+                image: siteConfig.baseUrl + 'img/icon_intro2.png',
                 imageAlign: <translate>top</translate>,
                 title: <translate>Camp</translate>
               }
@@ -83,7 +84,7 @@ module.exports = function Index ({ language }) {
           />
         </Container>
 
-        <div className='productShowcaseSection paddingBottom'>
+        <div className='userSection productShowcaseSection lightBackground'>
           <h2>
             <translate>Who's Using This?</translate>
           </h2>

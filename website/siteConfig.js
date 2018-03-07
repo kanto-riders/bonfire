@@ -29,12 +29,12 @@ const siteConfig = {
     { search: true }
   ],
   users,
-  headerIcon: 'img/takibi.png',
-  footerIcon: 'img/takibi.png',
-  favicon: 'img/favicon.png',
+  headerIcon: 'img/icon_common.png',
+  footerIcon: 'img/icon_common.png',
+  favicon: 'img/favicon/favicon.ico',
   colors: {
-    primaryColor: '#2E8555',
-    secondaryColor: '#205C3B'
+    primaryColor: '#272e37',
+    secondaryColor: '#232930'
   },
   copyright: 'Copyright © ' + new Date().getFullYear() + 'Kanto riders',
   organizationName: 'kanto-riders',
