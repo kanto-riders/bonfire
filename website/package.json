@@ -1,8 +1,10 @@
 {
+  "name": "bonfire-website",
   "scripts": {
     "build": "docusaurus-build",
     "crowdin-download": "crowdin --config ../crowdin.yaml download -b master",
-    "crowdin-upload": "crowdin --config ../crowdin.yaml upload sources --auto-update -b master",
+    "crowdin-upload":
+      "crowdin --config ../crowdin.yaml upload sources --auto-update -b master",
     "examples": "docusaurus-examples",
     "publish-gh-pages": "docusaurus-publish",
     "rename-version": "docusaurus-rename-version",
