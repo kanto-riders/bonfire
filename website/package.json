@@ -1,20 +1,19 @@
 {
   "name": "bonfire-website",
+  "version": "0.0.1",
+  "devDependencies": {
+    "docusaurus": "^1.0.3"
+  },
+  "license": "MIT",
   "scripts": {
     "build": "docusaurus-build",
     "crowdin-download": "crowdin --config ../crowdin.yaml download -b master",
-    "crowdin-upload":
-      "crowdin --config ../crowdin.yaml upload sources --auto-update -b master",
+    "crowdin-upload": "crowdin --config ../crowdin.yaml upload sources --auto-update -b master",
     "examples": "docusaurus-examples",
     "publish-gh-pages": "docusaurus-publish",
     "rename-version": "docusaurus-rename-version",
     "start": "docusaurus-start",
     "version": "docusaurus-version",
     "write-translations": "docusaurus-write-translations"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "docusaurus": "^1.0.3"
-  },
-  "version": "0.0.1"
+  }
 }
