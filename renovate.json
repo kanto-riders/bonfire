@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "packageNames": [
+    "bonfire",
+    "bonfire-website"
+  ],
+  "automerge": true
+}
