@@ -12,6 +12,19 @@ fumotoppara <https://fumotoppara.net/>
 ## Members
 
 * 9renpoto
+* dod2119
+* key
+* shino
+* ?
+* ?
+
+## Scheduled
+
+| time | position | description |
+| :--- | :------- | :---------- |
+| TBA  | TBA      | 集合        |
+| TBA  | TBA      | 到着        |
+| TBA  | TBA      | 解散        |
 
 ## Keep
 
