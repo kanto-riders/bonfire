@@ -20,11 +20,11 @@ fumotoppara <https://fumotoppara.net/>
 
 ## Scheduled
 
-| time | position | description |
-| :--- | :------- | :---------- |
-| TBA  | TBA      | 集合        |
-| TBA  | TBA      | 到着        |
-| TBA  | TBA      | 解散        |
+| time | position | description    |
+| :--- | :------- | :------------- |
+| TBA  | TBA      | 集合           |
+| TBA  | TBA      | チェックイン   |
+| TBA  | TBA      | チェックアウト |
 
 ## Keep
 
