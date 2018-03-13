@@ -37,3 +37,12 @@ fumotoppara <https://fumotoppara.net/>
 ## Try
 
 * (will try items or actions)
+
+* コーヒーセット
+  * コーヒーミル
+  * コーヒーフィルター
+  * コーヒー豆
+  * コーヒースクープ
+  * ドリッパー
+  * ケトル
+  * バーナー
