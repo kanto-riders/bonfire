@@ -22,9 +22,9 @@ fumotoppara <https://fumotoppara.net/>
 
 | time | position    | description    |
 | :--- | :---------- | :------------- |
-| TBA  | TBA         | 集合           |
-| TBA  | fomotoppara | チェックイン   |
-| TBA  | fomotoppara | チェックアウト |
+| 3/24 TBA  | TBA         | 集合           |
+| 3/24 TBA | fomotoppara | チェックイン   |
+| 3/25 TBA | fomotoppara | チェックアウト |
 
 ## Keep
 
