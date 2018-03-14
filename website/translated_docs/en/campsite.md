@@ -19,7 +19,7 @@ sidebar_label: Campsite
   * ほったらかし温泉まで車で 5 分、徒歩 20 分
   * 焚火台あり
 
-## 静岡県
+## Shizuoka Prefecture
 
 ### 夕日ヶ丘キャンプ場
 
