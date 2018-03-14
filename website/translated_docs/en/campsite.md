@@ -5,15 +5,15 @@ sidebar_label: Campsite
 ---
 # campsite
 
-## 山梨県
+## Yamanashi Prefecture
 
-### パインウッドオートキャンプ場
+### Pine Wood Auto Camping Ground
 
-* 住所  - [〒 405-0045 山梨県山梨市大工 2483](https://www.google.co.jp/maps/place/%E3%83%91%E3%82%A4%E3%83%B3%E3%82%A6%E3%83%83%E3%83%89%E3%82%AA%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4/@35.7112445,138.6572363,17z/data=!3m1!4b1!4m5!3m4!1s0x601bff1f7ad4710d:0xa815548b82546aa6!8m2!3d35.7112402!4d138.6594303?hl=ja)
-* 費用 
-  * バイク 2,000 円/人
-  * 薪　 1,000 円
-* 特徴 
+* Address - Daiku, Yamanashi, Yamanashi Prefecture 405-0045
+* Prices 
+  * Motorbike - 2000 yen per person
+  * Firewood - 1000 yen
+* Features 
   * ゆるキャン 2 巻に出てきた
   * 甲府盆地を見渡す景観
   * ほったらかし温泉まで車で 5 分、徒歩 20 分
