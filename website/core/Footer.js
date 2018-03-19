@@ -22,7 +22,7 @@ module.exports = function Footer ({
         </div>
         <div>
           <h5>Community</h5>
-          <a href='https://kanto-riders.slack.com/'>Project Chat</a>
+          <a href='https://kanto-riders.herokuapp.com/'>Project Chat</a>
         </div>
         <div>
           <h5>More</h5>
