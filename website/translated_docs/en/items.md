@@ -3,8 +3,6 @@ id: items
 title: Items
 sidebar_label: Items
 ---
-# bonfire
-
 ## Bed
 
 * [ ] Tent
