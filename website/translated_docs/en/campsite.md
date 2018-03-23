@@ -3,8 +3,6 @@ id: campsite
 title: Campsite
 sidebar_label: Campsite
 ---
-# campsite
-
 ## Yamanashi Prefecture
 
 ### Pine Wood Auto Camping Ground
