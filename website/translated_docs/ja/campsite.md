@@ -3,8 +3,6 @@ id: campsite
 title: Campsite
 sidebar_label: Campsite
 ---
-# campsite
-
 ## 山梨県
 
 ### パインウッドオートキャンプ場
