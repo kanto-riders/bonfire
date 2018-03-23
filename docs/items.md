@@ -4,8 +4,6 @@ title: Items
 sidebar_label: Items
 ---
 
-# bonfire
-
 ## Bed
 
 * [ ] テント
