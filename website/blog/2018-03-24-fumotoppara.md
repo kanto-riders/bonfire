@@ -18,14 +18,14 @@ fumotoppara <https://fumotoppara.net/>
 
 ## Scheduled
 
-| time       | position                                                               | description    |
-| :--------- | :--------------------------------------------------------------------- | :------------- |
-| 3/24 9:00  | [セブンイレブン相模原津久井太井東店](https://goo.gl/maps/hRhrMjXa6BN2) | 集合           |
-| 3/24 12:00 | 沼津港                                                                 |                |
-| 3/24       | [エブリィビッグデー 北富士店](https://goo.gl/maps/cCzFpJc5cfC2)        |                |
-| 3/24       | [風の湯](https://www.kazenoyu.net/)                                    |                |
-| 3/24 15:00 | fomotoppara                                                            | チェックイン   |
-| 3/25 14:00 | fomotoppara                                                            | チェックアウト |
+| time                 | position                                                               | description    |
+| :------------------- | :--------------------------------------------------------------------- | :------------- |
+| 3/24 9:00            | [セブンイレブン相模原津久井太井東店](https://goo.gl/maps/hRhrMjXa6BN2) | 集合           |
+| 3/24 ~~12:00~~ 13:00 | 沼津港                                                                 |                |
+| 3/24                 | [エブリィビッグデー 北富士店](https://goo.gl/maps/cCzFpJc5cfC2)        |                |
+| 3/24                 | ~~[風の湯](https://www.kazenoyu.net/)~~                                |                |
+| 3/24 ~~15:00~~ 17:00 | fomotoppara                                                            | チェックイン   |
+| 3/25 ~~14:00~~ 12:00 | fomotoppara                                                            | チェックアウト |
 
 * コーヒーセット
    * コーヒーミル
