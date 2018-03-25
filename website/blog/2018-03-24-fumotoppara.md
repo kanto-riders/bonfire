@@ -66,3 +66,7 @@ fumotoppara <https://fumotoppara.net/>
 
 * ブッシュクラフトして薪に火を
 * 料理をする
+
+## 感想エントリー
+
+* [ふもとっぱらキャンプ場](https://9renpoto.github.io/entry/2018/03/25/fumotoppara/)
