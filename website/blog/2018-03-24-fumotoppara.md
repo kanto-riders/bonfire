@@ -12,9 +12,9 @@ fumotoppara <https://fumotoppara.net/>
 * 9renpoto
 * dod2119
 * key
+* kimura
+* komatsu
 * shino
-* ?
-* ?
 
 ## Scheduled
 
@@ -42,12 +42,27 @@ fumotoppara <https://fumotoppara.net/>
 
 ## Keep
 
-* (keeping items)
+![night](img/fomotoppara01.jpg)
+
+* 自作コーヒー最高
+* アンチョビ料理最高
+* 温燻は放置で調理が楽でいい
+  * 風の影響を受けにくいのも Good
+* 夜寒対策
+  * 湯たんぽ最高
+  * インナーシュラフ有効（使うの難しい)
+  * アウターシュラフ有効（使うの楽）
+* 着火剤はもしもの際に必須
 
 ## Problem
 
-* (problems)
+* 風対策が甘かった
+* 気温が低いとガスバーナーが貧弱
+* 忘れ物は時に致命的（今回は助けられた)
+* B6 サイズ焼き場は３人一つはきつい
+* 焚き火台を囲むのは３人ぐらいが限界（風向き的に）
 
 ## Try
 
-* (will try items or actions)
+* ブッシュクラフトして薪に火を
+* 料理をする
