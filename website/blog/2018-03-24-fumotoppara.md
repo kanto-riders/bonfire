@@ -42,7 +42,7 @@ fumotoppara <https://fumotoppara.net/>
 
 ## Keep
 
-![night](img/fomotoppara01.jpg)
+![night](/bonfire/img/fomotoppara01.jpg)
 
 * 自作コーヒー最高
 * アンチョビ料理最高
