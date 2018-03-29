@@ -74,3 +74,4 @@ fumotoppara <https://fumotoppara.net/>
 ## 感想エントリー
 
 * [ふもとっぱらキャンプ場](https://9renpoto.github.io/entry/2018/03/25/fumotoppara/)
+* [ふもとっぱらキャンプ](http://key3.hatenablog.com/entry/2018/03/26/%E3%81%B5%E3%82%82%E3%81%A8%E3%81%A3%E3%81%B1%E3%82%89%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97)
