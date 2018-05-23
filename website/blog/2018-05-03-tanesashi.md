@@ -8,7 +8,7 @@ authorURL: http://twitter.com/key3
 
 * [種差キャンプ場](https://www.jalan.net/kankou/spt_02203ca3430054838/)
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://lh3.googleusercontent.com/-jtAQq7NJJFo/WvHVNdh5G1I/AAAAAAABCs0/DEjBzoskkhsBwoRAr8diLtn0R3RFXpVqQCE0YBhgL/s1024/IMG_1912.HEIC" itemprop="image"></span>
+<span alt="種差キャンプ場" itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://lh3.googleusercontent.com/-jtAQq7NJJFo/WvHVNdh5G1I/AAAAAAABCs0/DEjBzoskkhsBwoRAr8diLtn0R3RFXpVqQCE0YBhgL/s1024/IMG_1912.HEIC" itemprop="image"></span>
 
 ## Members
 
