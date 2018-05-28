@@ -56,6 +56,7 @@ sidebar_label: Items
 * [ ] ウォータータンク
 * [ ] ポリ袋
 * [ ] ジップロック
+* [ ] BBQ 串
 
 ### Burner: OD
 

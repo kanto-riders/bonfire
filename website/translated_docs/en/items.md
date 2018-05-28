@@ -56,6 +56,7 @@ sidebar_label: Items
 * [ ] Water tank
 * [ ] Plastic bags
 * [ ] Zip
+* [ ] BBQ 串
 
 ### Burner: OD
 
