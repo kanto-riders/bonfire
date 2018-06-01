@@ -12,7 +12,7 @@ sidebar_label: Campsite
   * Motorbike - 2000 yen per person
   * Firewood - 1000 yen
 * Features 
-  * ゆるキャン 2 巻に出てきた
+  * Appears in Volume 2 of Laid-Back Camp
   * 甲府盆地を見渡す景観
   * ほったらかし温泉まで車で 5 分、徒歩 20 分
   * 焚火台あり
