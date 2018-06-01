@@ -13,8 +13,8 @@ sidebar_label: Campsite
   * Firewood - 1000 yen
 * Features 
   * Appears in Volume 2 of Laid-Back Camp
-  * 甲府盆地を見渡す景観
-  * ほったらかし温泉まで車で 5 分、徒歩 20 分
+  * Scenery looking out over Kofu Basin
+  * 5 minutes to Hottarakashi Onsen by car, 20 minutes on foot
   * 焚火台あり
 
 ## Shizuoka Prefecture
