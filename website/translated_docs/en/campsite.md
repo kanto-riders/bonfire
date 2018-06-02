@@ -12,9 +12,9 @@ sidebar_label: Campsite
   * Motorbike - 2000 yen per person
   * Firewood - 1000 yen
 * Features 
-  * ゆるキャン 2 巻に出てきた
-  * 甲府盆地を見渡す景観
-  * ほったらかし温泉まで車で 5 分、徒歩 20 分
+  * Appears in Volume 2 of Laid-Back Camp
+  * Scenery looking out over Kofu Basin
+  * 5 minutes to Hottarakashi Onsen by car, 20 minutes on foot
   * 焚火台あり
 
 ## Shizuoka Prefecture
