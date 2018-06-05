@@ -15,29 +15,29 @@ sidebar_label: Campsite
   * Appears in Volume 2 of Laid-Back Camp
   * Scenery looking out over Kofu Basin
   * 5 minutes to Hottarakashi Onsen by car, 20 minutes on foot
-  * 焚火台あり
+  * Has fire pits
 
 ## Shizuoka Prefecture
 
-### 夕日ヶ丘キャンプ場
+### Yuhigaoka Auto Camping Ground
 
-* 住所、ウェブサイト 
-  * [静岡県賀茂郡南伊豆町伊浜 2222](https://www.google.co.jp/maps/place/%E3%80%92415-0531+%E9%9D%99%E5%B2%A1%E7%9C%8C%E8%B3%80%E8%8C%82%E9%83%A1%E5%8D%97%E4%BC%8A%E8%B1%86%E7%94%BA%E4%BC%8A%E6%B5%9C%EF%BC%92%EF%BC%92%EF%BC%92%EF%BC%92/data=!4m2!3m1!1s0x6019f9290d99dec9:0x16d9382759959dc1?sa=X&ved=0ahUKEwj82cTr5czXAhWFvbwKHd2xAAoQ8gEIJjAA)
-  * [ウェブサイト](http://byaku.at-ninja.jp/)
-* 費用 
-  * バイク 2,160 円/人
-  * 薪 800 円
-* 特徴 
-  * 太平洋を一望できるサイト
-  * 西向きなので夕日がきれい
-  * 薪が太めなので小さなグリルを使うにはナタが必要
-  * 冬は風が強い
+* Address, Website 
+  * [2222 Ihama, Minamiizu-chō, Kamo-gun, Shizuoka-ken 415-0531](https://www.google.co.jp/maps/place/%E3%80%92415-0531+%E9%9D%99%E5%B2%A1%E7%9C%8C%E8%B3%80%E8%8C%82%E9%83%A1%E5%8D%97%E4%BC%8A%E8%B1%86%E7%94%BA%E4%BC%8A%E6%B5%9C%EF%BC%92%EF%BC%92%EF%BC%92%EF%BC%92/data=!4m2!3m1!1s0x6019f9290d99dec9:0x16d9382759959dc1?sa=X&ved=0ahUKEwj82cTr5czXAhWFvbwKHd2xAAoQ8gEIJjAA)
+  * [Website](http://byaku.at-ninja.jp/)
+* Prices 
+  * Motorbike - 2160 yen per person
+  * Firewood - 800 yen
+* Features 
+  * Sites with sweeping views of the Pacific Ocean
+  * Faces west so the setting sun is beautiful
+  * Firewood is somewhat large so to use a small grill you need a hatchet
+  * Wind is strong in winter
 
-## 埼玉県
+## Saitama Prefecture
 
-### cazu キャンプ場
+### Cazu Camping Ground
 
-* 住所、ウェブサイト 
+* Address, Website 
   * [埼玉県飯能市赤沢 1072](https://www.google.co.jp/maps/place/%E3%80%92357-0128+%E5%9F%BC%E7%8E%89%E7%9C%8C%E9%A3%AF%E8%83%BD%E5%B8%82%E8%B5%A4%E6%B2%A2%EF%BC%91%EF%BC%90%EF%BC%97%EF%BC%92/data=!4m2!3m1!1s0x601930287564f24d:0xad9efa111f16cc78?sa=X&ved=0ahUKEwjK1sb758zXAhXEf7wKHS7CCSoQ8gEIJjAA)
   * [ウェブサイト](http://www.cazu.jp/)
 * 費用
