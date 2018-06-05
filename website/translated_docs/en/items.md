@@ -125,33 +125,33 @@ sidebar_label: Items
 ## In Winter
 
 * [ ] Down jacket
-* [ ] ダウンパンツ
-* [ ] 冬用インナーウェア
+* [ ] Down pants
+* [ ] Winter innerwear
 
 ## Clothes
 
-* [ ] シャツ
-* [ ] 下着
-* [ ] 靴下
-* [ ] ハンドタオル
-* [ ] 防水着替え袋
-* [ ] レインウェア
+* [ ] Shirts
+* [ ] Underwear
+* [ ] Socks
+* [ ] Hand towel
+* [ ] Waterproof clothes bag
+* [ ] Rainwear
 
 ## Riding wear
 
-* [ ] 雨具
+* [ ] Rain gear
 
-# 途中で買うもの
+# Things to buy on the way
 
-* 水
-* 料理の具材
+* Water
+* Cooking ingredients
 
-## 推奨グッズ
+## Recommended items
 
-* ノコギリ 
-  * [シルキー ゴムボーイ 万能目 210mm](https://www.amazon.co.jp/dp/B000CEAX8S/) 
-    * より大型の製品もあるが、枝を切る程度であれば 210mm で十分。
-* ライター 
-  * [SOTO スライドガストーチ](https://www.amazon.co.jp/dp/B004WMPFWA/) 
-    * 先端が伸びるので奥底に埋まった着火剤などに点火するのが容易。
-    * CB 缶のガスがそのまま入れられる。
+* Saw 
+  * [Silky GOMBOY All-Purpose 210mm](https://www.amazon.co.jp/dp/B000CEAX8S/) 
+    * There are bigger products, but if it's just for cutting branches 210mm is plenty.
+* Lighter 
+  * [SOTO Sliding Gas Torch](https://www.amazon.co.jp/dp/B004WMPFWA/) 
+    * Because you can extend the tip it's easy to light firelighters and such that are buried in deep.
+    * You can light cassette gas as-is.
