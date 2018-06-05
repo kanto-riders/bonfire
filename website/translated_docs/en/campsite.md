@@ -54,13 +54,13 @@ sidebar_label: Campsite
 * Prices 
   * Motorbike - 1080 yen per person (vague memory, not listed on the Web)
 * Features 
-  * Good view from the undivided sites 
-    * You probably can't ride your motorbike into the undivided sites
-  * Entirely hills
+  * Good view from the tent sites 
+    * You probably can't ride your motorbike into the tent sites
+  * Overall slopes
   * The manager gives various conveniences 
-    * フリーサイト予約だったがオートサイトにしてくれた
-    * バイク止める用の屋根ありの場所を用意してくれた
-  * 洗い場に湯沸かし器あり
-  * 薪がホムセンの廃材コーナーっぽい（角材風） 
-    * 長めなのでノコギリ推奨
-  * 釣り堀とかあるらしい
+    * Reserved a tent site but the manager gave an upgrade to an auto site
+    * Prepared a spot for motorbikes with a roof
+  * Water boiler in the washroom
+  * The firewood looks like scrap wood corners from a home center (rectangular) 
+    * Longish so a saw is recommended
+  * Seems to have a fish pond or something like that
