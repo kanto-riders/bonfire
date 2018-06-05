@@ -154,4 +154,4 @@ sidebar_label: Items
 * Lighter 
   * [SOTO Sliding Gas Torch](https://www.amazon.co.jp/dp/B004WMPFWA/) 
     * Because you can extend the tip it's easy to light firelighters and such that are buried in deep.
-    * CB 缶のガスがそのまま入れられる。
+    * You can light cassette gas as-is.
