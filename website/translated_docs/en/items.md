@@ -6,11 +6,11 @@ sidebar_label: Items
 ## Bed
 
 * [ ] Tent
-* [ ] Grand sheet
-* [ ] Tightrope
+* [ ] Ground sheet
+* [ ] Paracord
 * [ ] Peg
 * [ ] Hammer
-* [ ] Lanthanum
+* [ ] Lantern
 
 ## Sleep
 
@@ -24,7 +24,7 @@ sidebar_label: Items
 ## Livingware
 
 * [ ] Toothbrush, toothpaste
-* [ ] Core without toilet paper
+* [ ] Toilet paper without center
 * [ ] Wet wipes
 
 ## Luggage
@@ -34,35 +34,35 @@ sidebar_label: Items
 ## Medicine
 
 * [ ] Emergency kit
-* [ ] Drug
-* [ ] Insect sting medicine
+* [ ] Drugs
+* [ ] Bug bite medicine
 
 ## Electric device support
 
 * [ ] Mobile battery
-* [ ] Lightning charge cable
+* [ ] Lightning charging cable
 * [ ] microUSB charging cable
 * [ ] Thermometer
 
 ## Cooking
 
-* [ ] Chopsticks, spoons, forks,
+* [ ] Chopsticks, spoons, forks
 * [ ] Cooker
-* [ ] Mag
+* [ ] Mug
 * [ ] Table
 * [ ] Kitchen paper
 * [ ] Aluminum foil
 * [ ] Seasoning
 * [ ] Water tank
 * [ ] Plastic bags
-* [ ] Zip
-* [ ] BBQ 串
+* [ ] Ziplock
+* [ ] BBQ skewer
 
 ### Burner: OD
 
 * [ ] Burner
 * [ ] OD cans
-* [ ] Writers
+* [ ] Lighter
 
 ### Burner: Petrol
 
@@ -73,58 +73,58 @@ sidebar_label: Items
 ## Relaxation
 
 * [ ] Tarp
-* [ ] Tape pole
-* [ ] Leisure sheet
+* [ ] Tarp pole
+* [ ] Picnic sheet
 * [ ] Sandals
 * [ ] Chair
-* [ ] Head light
-* [ ] Lanthanum
+* [ ] Headlamp
+* [ ] Lantern
 * [ ] Alcohol
 
 ### Relaxation: Bonfire
 
-* [ ] 焚火台
-* [ ] Writers
-* [ ] 軍手
+* [ ] Fire pit
+* [ ] Lighter
+* [ ] Heavy-duty gloves
 * [ ] Knife
-* [ ] ナタ
+* [ ] Hatchet
 * [ ] Saw
 * [ ] Firelighters
 
 ### Relaxation: Drip coffee
 
-* [ ] コーヒーミル
-* [ ] 豆
-* [ ] ドリッパー
-* [ ] コーヒーフィルター
-* [ ] ケトル
-* [ ] きゅうすスキッター
-* [ ] マグ
+* [ ] Coffee grinder
+* [ ] Beans
+* [ ] Dripper
+* [ ] Coffee filter
+* [ ] Kettle
+* [ ] Teapot spout clip
+* [ ] Mug
 
 ### Relaxation: French press coffee
 
-* [ ] コーヒーミル
-* [ ] 豆
-* [ ] BioLite ケトル
-* [ ] BioLite コーヒープレス
-* [ ] マグ
+* [ ] Coffee grinder
+* [ ] Beans
+* [ ] BioLite kettle
+* [ ] BioLite coffee press
+* [ ] Mug
 
-### Relaxation: Musics
+### Relaxation: Music
 
-* [ ] Bluetooth スピーカー
+* [ ] Bluetooth speaker
 
 ### Relexation: Reading
 
 * [ ] Kindle
 
-## In Summar
+## In Summer
 
-* [ ] 虫除け
-* [ ] 寝間着の短パン
+* [ ] Insect repellent
+* [ ] Pajama shorts
 
 ## In Winter
 
-* [ ] ダウンジャケット
+* [ ] Down jacket
 * [ ] ダウンパンツ
 * [ ] 冬用インナーウェア
 
