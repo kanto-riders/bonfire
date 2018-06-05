@@ -93,38 +93,38 @@ sidebar_label: Items
 
 ### Relaxation: Drip coffee
 
-* [ ] コーヒーミル
-* [ ] 豆
-* [ ] ドリッパー
-* [ ] コーヒーフィルター
-* [ ] ケトル
-* [ ] きゅうすスキッター
-* [ ] マグ
+* [ ] Coffee grinder
+* [ ] Beans
+* [ ] Dripper
+* [ ] Coffee filter
+* [ ] Kettle
+* [ ] Teapot spout clip
+* [ ] Mug
 
 ### Relaxation: French press coffee
 
-* [ ] コーヒーミル
-* [ ] 豆
-* [ ] BioLite ケトル
-* [ ] BioLite コーヒープレス
-* [ ] マグ
+* [ ] Coffee grinder
+* [ ] Beans
+* [ ] BioLite kettle
+* [ ] BioLite coffee press
+* [ ] Mug
 
-### Relaxation: Musics
+### Relaxation: Music
 
-* [ ] Bluetooth スピーカー
+* [ ] Bluetooth speaker
 
 ### Relexation: Reading
 
 * [ ] Kindle
 
-## In Summar
+## In Summer
 
-* [ ] 虫除け
-* [ ] 寝間着の短パン
+* [ ] Insect repellent
+* [ ] Pajama shorts
 
 ## In Winter
 
-* [ ] ダウンジャケット
+* [ ] Down jacket
 * [ ] ダウンパンツ
 * [ ] 冬用インナーウェア
 
