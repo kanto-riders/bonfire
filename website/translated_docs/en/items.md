@@ -152,6 +152,6 @@ sidebar_label: Items
   * [Silky GOMBOY All-Purpose 210mm](https://www.amazon.co.jp/dp/B000CEAX8S/) 
     * There are bigger products, but if it's just for cutting branches 210mm is plenty.
 * Lighter 
-  * [SOTO スライドガストーチ](https://www.amazon.co.jp/dp/B004WMPFWA/) 
-    * 先端が伸びるので奥底に埋まった着火剤などに点火するのが容易。
+  * [SOTO Sliding Gas Torch](https://www.amazon.co.jp/dp/B004WMPFWA/) 
+    * Because you can extend the tip it's easy to light firelighters and such that are buried in deep.
     * CB 缶のガスがそのまま入れられる。
