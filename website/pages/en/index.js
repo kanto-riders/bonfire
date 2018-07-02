@@ -68,13 +68,13 @@ module.exports = function Index ({ language }) {
             align='center'
             contents={[
               {
-                content: <translate>走る</translate>,
+                content: <translate>Run</translate>,
                 image: siteConfig.baseUrl + 'img/icon_intro1.png',
                 imageAlign: <translate>top</translate>,
                 title: <translate>touring</translate>
               },
               {
-                content: <translate>野で戯れる</translate>,
+                content: <translate>Frolic in the field</translate>,
                 image: siteConfig.baseUrl + 'img/icon_intro2.png',
                 imageAlign: <translate>top</translate>,
                 title: <translate>Camp</translate>
