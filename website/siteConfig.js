@@ -12,6 +12,12 @@ const users = [
     image: 'https://pbs.twimg.com/profile_images/2034565824/key3_400x400.jpg',
     infoLink: 'https://twitter.com/key3',
     pinned: true
+  },
+  {
+    caption: 'shinorsoduro',
+    image: 'https://pbs.twimg.com/profile_images/1009231822117482496/deG-bleC_400x400.jpg',
+    infoLink: 'https://twitter.com/shinorsoduro',
+    pinned: true
   }
 ]
 
