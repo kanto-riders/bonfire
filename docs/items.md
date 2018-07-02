@@ -6,153 +6,153 @@ sidebar_label: Items
 
 ## Bed
 
-* [ ] テント
-* [ ] グランドシート
-* [ ] 張り綱
-* [ ] ペグ
-* [ ] ハンマー
-* [ ] ランタン
+* [ ] Tent
+* [ ] Ground sheet
+* [ ] Paracord
+* [ ] Peg
+* [ ] Hammer
+* [ ] Lantern
 
 ## Sleep
 
-* [ ] シュラフ
-* [ ] インナーシュラフ
-* [ ] ピロー
-* [ ] マットまたはコット
-* [ ] 耳栓
-* [ ] アイマスク
+* [ ] Sleeping bag
+* [ ] Inner schlaff
+* [ ] Pillow
+* [ ] Mat or cot
+* [ ] Ear plugs
+* [ ] Sleep mask
 
 ## Livingware
 
-* [ ] 歯ブラシ、歯磨き粉
-* [ ] 芯抜きトイレットペーパー
-* [ ] ウェットティッシュ
+* [ ] Toothbrush, toothpaste
+* [ ] Toilet paper without center
+* [ ] Wet wipes
 
 ## Luggage
 
-* [ ] パッカブルバックパック
+* [ ] Packable backpack
 
 ## Medicine
 
-* [ ] エマージェンシーキット
-* [ ] 薬
-* [ ] 虫刺されの薬
+* [ ] Emergency kit
+* [ ] Drugs
+* [ ] Bug bite medicine
 
 ## Electric device support
 
-* [ ] モバイルバッテリー
-* [ ] Lightning 充電ケーブル
-* [ ] microUSB 充電ケーブル
-* [ ] 温度計
+* [ ] Mobile battery
+* [ ] Lightning charging cable
+* [ ] microUSB charging cable
+* [ ] Thermometer
 
 ## Cooking
 
-* [ ] 箸、スプーン、フォーク
-* [ ] クッカー
-* [ ] マグ
-* [ ] テーブル
-* [ ] キッチンペーパー
-* [ ] アルミホイル
-* [ ] 調味料
-* [ ] ウォータータンク
-* [ ] ポリ袋
-* [ ] ジップロック
-* [ ] BBQ 串
+* [ ] Chopsticks, spoons, forks
+* [ ] Cooker
+* [ ] Mug
+* [ ] Table
+* [ ] Kitchen paper
+* [ ] Aluminum foil
+* [ ] Seasoning
+* [ ] Water tank
+* [ ] Plastic bags
+* [ ] Ziplock
+* [ ] BBQ skewer
 
 ### Burner: OD
 
-* [ ] バーナー
-* [ ] OD 缶
-* [ ] ライター
+* [ ] Burner
+* [ ] OD cans
+* [ ] Lighter
 
 ### Burner: Petrol
 
-* [ ] バーナー
-* [ ] バーナー燃料ボトル
-* [ ] ガソリン携行缶
+* [ ] Burner
+* [ ] Burner fuel bottle
+* [ ] Carrying petrol cans
 
 ## Relaxation
 
-* [ ] タープ
-* [ ] タープポール
-* [ ] レジャーシート
-* [ ] サンダル
-* [ ] チェア
-* [ ] ヘッドライト
-* [ ] ランタン
-* [ ] お酒
+* [ ] Tarp
+* [ ] Tarp pole
+* [ ] Picnic sheet
+* [ ] Sandals
+* [ ] Chair
+* [ ] Headlamp
+* [ ] Lantern
+* [ ] Alcohol
 
 ### Relaxation: Bonfire
 
-* [ ] 焚火台
-* [ ] ライター
-* [ ] 軍手
-* [ ] ナイフ
-* [ ] ナタ
-* [ ] ノコギリ
-* [ ] 着火剤
+* [ ] Fire pit
+* [ ] Lighter
+* [ ] Heavy-duty gloves
+* [ ] Knife
+* [ ] Hatchet
+* [ ] Saw
+* [ ] Firelighters
 
 ### Relaxation: Drip coffee
 
-* [ ] コーヒーミル
-* [ ] 豆
-* [ ] ドリッパー
-* [ ] コーヒーフィルター
-* [ ] ケトル
-* [ ] きゅうすスキッター
-* [ ] マグ
+* [ ] Coffee grinder
+* [ ] Beans
+* [ ] Dripper
+* [ ] Coffee filter
+* [ ] Kettle
+* [ ] Teapot spout clip
+* [ ] Mug
 
 ### Relaxation: French press coffee
 
-* [ ] コーヒーミル
-* [ ] 豆
-* [ ] BioLite ケトル
-* [ ] BioLite コーヒープレス
-* [ ] マグ
+* [ ] Coffee grinder
+* [ ] Beans
+* [ ] BioLite kettle
+* [ ] BioLite coffee press
+* [ ] Mug
 
-### Relaxation: Musics
+### Relaxation: Music
 
-* [ ] Bluetooth スピーカー
+* [ ] Bluetooth speaker
 
 ### Relexation: Reading
 
 * [ ] Kindle
 
-## In Summar
+## In Summer
 
-* [ ] 虫除け
-* [ ] 寝間着の短パン
+* [ ] Insect repellent
+* [ ] Pajama shorts
 
 ## In Winter
 
-* [ ] ダウンジャケット
-* [ ] ダウンパンツ
-* [ ] 冬用インナーウェア
+* [ ] Down jacket
+* [ ] Down pants
+* [ ] Winter innerwear
 
 ## Clothes
 
-* [ ] シャツ
-* [ ] 下着
-* [ ] 靴下
-* [ ] ハンドタオル
-* [ ] 防水着替え袋
-* [ ] レインウェア
+* [ ] Shirts
+* [ ] Underwear
+* [ ] Socks
+* [ ] Hand towel
+* [ ] Waterproof clothes bag
+* [ ] Rainwear
 
 ## Riding wear
 
-* [ ] 雨具
+* [ ] Rain gear
 
-# 途中で買うもの
+# Things to buy on the way
 
-* 水
-* 料理の具材
+* Water
+* Cooking ingredients
 
-## 推奨グッズ
+## Recommended items
 
-* ノコギリ
-  * [シルキー ゴムボーイ 万能目 210mm](https://www.amazon.co.jp/dp/B000CEAX8S/)
-    * より大型の製品もあるが、枝を切る程度であれば 210mm で十分。
-* ライター
-  * [SOTO スライドガストーチ](https://www.amazon.co.jp/dp/B004WMPFWA/)
-    * 先端が伸びるので奥底に埋まった着火剤などに点火するのが容易。
-    * CB 缶のガスがそのまま入れられる。
+* Saw
+  * [Silky GOMBOY All-Purpose 210mm](https://www.amazon.co.jp/dp/B000CEAX8S/)
+    * There are bigger products, but if it's just for cutting branches 210mm is plenty.
+* Lighter
+  * [SOTO Sliding Gas Torch](https://www.amazon.co.jp/dp/B004WMPFWA/)
+    * Because you can extend the tip it's easy to light firelighters and such that are buried in deep.
+    * You can light cassette gas as-is.
