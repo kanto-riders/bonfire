@@ -9,8 +9,10 @@
             </script><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><link rel="stylesheet" href="/bonfire/css/main.css"/></head><body><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/bonfire/ja"><img class="logo" src="/bonfire/img/icon_common.png" alt="Happy bonfire!"/><h2 class="headerTitleWithLogo">Happy bonfire!</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/bonfire/docs/ja/campsite.html" target="_self">キャンプサイト</a></li><li class="siteNavItemActive"><a href="/bonfire/ja/help.html" target="_self">ヘルプ</a></li><li class=""><a href="/bonfire/blog" target="_self">ブログ</a></li><li class=""><a href="https://github.com/kanto-riders/bonfire/" target="_self">GitHub</a></li><li class=""><a target="_self"></a></li><span><li><a id="languages-menu" href="#"><img class="languages-icon" src="/bonfire/img/language.svg"/>日本語</a><div id="languages-dropdown" class="hide"><ul id="languages-dropdown-items"><li><a href="/bonfire/en/help">English</a></li></ul></div></li><script>
         const languagesMenuItem = document.getElementById("languages-menu");
         const languagesDropDown = document.getElementById("languages-dropdown");
-        languagesMenuItem.addEventListener("click", function(){
-          if(languagesDropDown.className == "hide") {
+        languagesMenuItem.addEventListener("click", function(event) {
+          event.preventDefault();
+
+          if (languagesDropDown.className == "hide") {
             languagesDropDown.className = "visible";
           } else {
             languagesDropDown.className = "hide";
