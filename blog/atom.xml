@@ -2,12 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kanto-riders.github.io/bonfire//bonfire/blog</id>
     <title>Happy bonfire! Blog</title>
-    <updated>2018-06-02T06:00:00Z</updated>
+    <updated>2018-07-01T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://kanto-riders.github.io/bonfire//bonfire/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Happy bonfire! news and events.</subtitle>
     <logo>https://kanto-riders.github.io/bonfire//bonfire/img/icon_common.png</logo>
     <rights>Copyright © 2018Kanto riders</rights>
+    <entry>
+        <title type="html"><![CDATA[滝沢牧場キャンプ場]]></title>
+        <id>https://kanto-riders.github.io/bonfire//bonfire/blog/2018/07/01/takizawafarm.html</id>
+        <link href="https://kanto-riders.github.io/bonfire//bonfire/blog/2018/07/01/takizawafarm.html">
+        </link>
+        <updated>2018-07-01T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<h1><a class="anchor" aria-hidden="true" id="campsite"></a><a href="#campsite" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Campsite</h1>
+<ul>
+<li><a href="http://www.takizawa-bokujo.jp/">滝沢牧場</a></li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="members"></a><a href="#members" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Members</h2>
+<ul>
+<li>key3</li>
+<li>9renpoto</li>
+<li>shinorsoduro</li>
+<li>tammy</li>
+<li>toshi</li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="abstract"></a><a href="#abstract" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Abstract</h2>
+<p>Shinorsoduroに着いていったら夏の滝沢牧場に到着した。冬しか行ったことがなかったので新鮮。</p>
+<p>標高1,400m超、高原で涼しい。眼の前に広がる八ヶ岳がとてもきれい。アイス屋さんのソフトクリームとジェラート、どちらも美味い。</p>
+<p>近</p>
+]]></summary>
+        <author>
+            <name>key3</name>
+            <uri>http://twitter.com/key3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大洗キャンプ場]]></title>
         <id>https://kanto-riders.github.io/bonfire//bonfire/blog/2018/06/02/oarai.html</id>
