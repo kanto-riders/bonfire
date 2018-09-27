@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "author": "Keisuke Kan <9renpoto@gmail.com>",
   "devDependencies": {
-    "@9renpoto/eslint-config": "4.4.0",
-    "@9renpoto/eslint-config-react": "4.3.0",
+    "@9renpoto/eslint-config": "4.6.0",
+    "@9renpoto/eslint-config-react": "4.6.0",
     "eslint": "5.6.0",
     "husky": "0.14.3",
     "lerna": "2.11.0",
@@ -35,6 +35,6 @@
     "postinstall": "cd website && yarn",
     "precommit": "lint-staged",
     "start": "cd website && npm start",
-    "test": "eslint . --ext=js.jsx"
+    "test": "eslint --ext=js,jsx 'website/**/*.{js,jsx}'"
   }
 }
