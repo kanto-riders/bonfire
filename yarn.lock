@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@9renpoto/eslint-config-react@4.6.0":
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/@9renpoto/eslint-config-react/-/eslint-config-react-4.6.0.tgz#7ecb347cfc918ed862b5b619b36aaef2277da875"
+"@9renpoto/eslint-config-react@4.7.0":
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/@9renpoto/eslint-config-react/-/eslint-config-react-4.7.0.tgz#3bf993039fc9bbfda4c8c075423c9e4f092a5c3a"
   dependencies:
     eslint-config-standard-react "^7.0.0"
     eslint-plugin-react "^7.7.0"
