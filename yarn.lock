@@ -2847,9 +2847,9 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
-docusaurus@1.8.1:
-  version "1.8.1"
-  resolved "https://registry.yarnpkg.com/docusaurus/-/docusaurus-1.8.1.tgz#725298b092c7da265c2875057db31d80d0902e9b"
+docusaurus@1.8.3:
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/docusaurus/-/docusaurus-1.8.3.tgz#2bc33355274e4d25b658f125879a95f00dd6477a"
   dependencies:
     "@babel/core" "^7.0.0"
     "@babel/plugin-proposal-class-properties" "^7.0.0"
