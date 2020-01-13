@@ -2,7 +2,7 @@
   "name": "bonfire-website",
   "version": "0.0.1",
   "devDependencies": {
-    "docusaurus": "1.14.3"
+    "docusaurus": "1.14.4"
   },
   "license": "MIT",
   "scripts": {
