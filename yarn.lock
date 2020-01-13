@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@9renpoto/eslint-config-react@4.7.0":
-  version "4.7.0"
-  resolved "https://registry.yarnpkg.com/@9renpoto/eslint-config-react/-/eslint-config-react-4.7.0.tgz#3bf993039fc9bbfda4c8c075423c9e4f092a5c3a"
+"@9renpoto/eslint-config-react@5.5.1":
+  version "5.5.1"
+  resolved "https://registry.yarnpkg.com/@9renpoto/eslint-config-react/-/eslint-config-react-5.5.1.tgz#3f3f59b8e4565161d7c65ea19de7a4331ebbda9d"
   dependencies:
-    eslint-config-standard-react "^7.0.0"
-    eslint-plugin-react "^7.7.0"
+    eslint-config-prettier "^6.9.0"
+    eslint-plugin-react-hooks "^2.2.0"
 
 "@9renpoto/eslint-config@4.7.0":
   version "4.7.0"
@@ -1722,13 +1722,6 @@ array-ify@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/array-ify/-/array-ify-1.0.0.tgz#9e528762b4a9066ad163a6962a364418e9626ece"
 
-array-includes@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/array-includes/-/array-includes-3.0.3.tgz#184b48f62d92d7452bb31b323165c7f8bd02266d"
-  dependencies:
-    define-properties "^1.1.2"
-    es-abstract "^1.7.0"
-
 array-union@^1.0.1, array-union@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/array-union/-/array-union-1.0.2.tgz#9a34410e4f4e3da23dea375be5be70f24778ec39"
@@ -3223,9 +3216,9 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
-docusaurus@1.14.3:
-  version "1.14.3"
-  resolved "https://registry.yarnpkg.com/docusaurus/-/docusaurus-1.14.3.tgz#640ffc37ae14fe58c175fd14e66c3a2dd36e19a3"
+docusaurus@1.14.4:
+  version "1.14.4"
+  resolved "https://registry.yarnpkg.com/docusaurus/-/docusaurus-1.14.4.tgz#1ef3ebe8c2aaaf1dec6c2e0e177e83be78aeaca3"
   dependencies:
     "@babel/core" "^7.7.4"
     "@babel/plugin-proposal-class-properties" "^7.7.4"
@@ -3470,7 +3463,7 @@ es-abstract@^1.12.0:
     is-regex "^1.0.4"
     object-keys "^1.0.12"
 
-es-abstract@^1.5.1, es-abstract@^1.6.1, es-abstract@^1.7.0:
+es-abstract@^1.5.1, es-abstract@^1.6.1:
   version "1.12.0"
   resolved "https://registry.yarnpkg.com/es-abstract/-/es-abstract-1.12.0.tgz#9dbbdd27c6856f0001421ca18782d786bf8a6165"
   dependencies:
@@ -3518,15 +3511,11 @@ escape-string-regexp@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-2.0.0.tgz#a30304e99daa32e23b2fd20f51babd07cffca344"
 
-eslint-config-standard-jsx@^6.0.1:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-standard-jsx/-/eslint-config-standard-jsx-6.0.2.tgz#90c9aa16ac2c4f8970c13fc7efc608bacd02da70"
-
-eslint-config-standard-react@^7.0.0:
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-standard-react/-/eslint-config-standard-react-7.0.2.tgz#80b51a0e0c371ef987679ee134768457a5b6db92"
+eslint-config-prettier@^6.9.0:
+  version "6.9.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.9.0.tgz#430d24822e82f7deb1e22a435bfa3999fae4ad64"
   dependencies:
-    eslint-config-standard-jsx "^6.0.1"
+    get-stdin "^6.0.0"
 
 eslint-config-standard@^12.0.0:
   version "12.0.0"
@@ -3583,15 +3572,9 @@ eslint-plugin-promise@^4.0.0:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-promise/-/eslint-plugin-promise-4.0.1.tgz#2d074b653f35a23d1ba89d8e976a985117d1c6a2"
 
-eslint-plugin-react@^7.7.0:
-  version "7.11.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.11.1.tgz#c01a7af6f17519457d6116aa94fc6d2ccad5443c"
-  dependencies:
-    array-includes "^3.0.3"
-    doctrine "^2.1.0"
-    has "^1.0.3"
-    jsx-ast-utils "^2.0.1"
-    prop-types "^15.6.2"
+eslint-plugin-react-hooks@^2.2.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-2.3.0.tgz#53e073961f1f5ccf8dd19558036c1fac8c29d99a"
 
 eslint-plugin-standard@^4.0.0:
   version "4.0.0"
@@ -5532,12 +5515,6 @@ jsprim@^1.2.2:
     extsprintf "1.3.0"
     json-schema "0.2.3"
     verror "1.10.0"
-
-jsx-ast-utils@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/jsx-ast-utils/-/jsx-ast-utils-2.0.1.tgz#e801b1b39985e20fffc87b40e3748080e2dcac7f"
-  dependencies:
-    array-includes "^3.0.3"
 
 keyv@3.0.0:
   version "3.0.0"
